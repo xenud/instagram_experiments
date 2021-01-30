@@ -8024,13 +8024,22 @@
         "ig_android_profile_subtab_order": {
             "params": {
                 "is_igtv_second_tab": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "delay_clips_fetch": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "skip_zero_scroll": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
