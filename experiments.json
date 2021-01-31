@@ -10728,28 +10728,16 @@
         "ig_android_exoplayer_thread_priority_launcher": {
             "params": {
                 "disable_player_born_scroll_aware": {
-                    "value": false,
-                    "logging_id": [
-                        "333014767942958"
-                    ]
+                    "value": false
                 },
                 "loader_executor_scroll_aware": {
-                    "value": true,
-                    "logging_id": [
-                        "333014767942958"
-                    ]
+                    "value": true
                 },
                 "player_thread_scroll_aware": {
-                    "value": true,
-                    "logging_id": [
-                        "333014767942958"
-                    ]
+                    "value": true
                 },
                 "downgrade_priority": {
-                    "value": 10,
-                    "logging_id": [
-                        "333014767942958"
-                    ]
+                    "value": 10
                 }
             }
         },
