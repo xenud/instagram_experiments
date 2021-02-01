@@ -1144,6 +1144,9 @@
                 },
                 "use_task_uploader": {
                     "value": false
+                },
+                "event_flush_timeout": {
+                    "value": 15000
                 }
             }
         },
