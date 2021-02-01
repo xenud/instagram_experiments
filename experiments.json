@@ -2825,16 +2825,6 @@
                 }
             }
         },
-        "ig_android_clips_simplified_share_sheet_test": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                },
-                "is_story_share_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_direct_add_to_story_redesign": {
             "params": {
                 "enabled": {
@@ -7415,7 +7405,7 @@
                     "value": 3000000
                 },
                 "starting_bitrate": {
-                    "value": 250000
+                    "value": 1000000
                 },
                 "max_bitrate_4g_server_abr_enabled": {
                     "value": 1000000
