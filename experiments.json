@@ -1741,11 +1741,14 @@
         },
         "ig_direct_icebreaker_setting_killswitch": {
             "params": {
-                "android_enabled": {
+                "is_enabled": {
                     "value": false
                 },
+                "android_enabled": {
+                    "value": true
+                },
                 "ios_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
