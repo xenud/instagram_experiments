@@ -10769,6 +10769,9 @@
                 },
                 "downgrade_priority": {
                     "value": 10
+                },
+                "low_ram_downgrade_priority": {
+                    "value": 19
                 }
             }
         },
