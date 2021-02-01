@@ -9088,13 +9088,7 @@
                 "show_suggested_products_section_in_tagging_flow": {
                     "value": true
                 },
-                "show_suggested_products_on_tagging_row": {
-                    "value": false
-                },
                 "call_suggested_products_endpoint": {
-                    "value": false
-                },
-                "show_suggested_products_media_dots": {
                     "value": false
                 }
             }
