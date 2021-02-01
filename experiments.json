@@ -2967,6 +2967,24 @@
                     "logging_id": [
                         "156502836175044"
                     ]
+                },
+                "is_creation_download_with_music_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "156502836175044"
+                    ]
+                },
+                "is_consumption_download_with_music_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "156502836175044"
+                    ]
+                },
+                "should_disable_creation_download": {
+                    "value": false,
+                    "logging_id": [
+                        "156502836175044"
+                    ]
                 }
             }
         },
