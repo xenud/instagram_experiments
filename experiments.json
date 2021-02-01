@@ -1138,6 +1138,9 @@
                 },
                 "upload_request_count_limit": {
                     "value": 10
+                },
+                "use_ig_handler_factory": {
+                    "value": true
                 }
             }
         },
