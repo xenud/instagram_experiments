@@ -2828,7 +2828,7 @@
         "ig_android_clips_simplified_share_sheet_test": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "is_story_share_enabled": {
                     "value": false
@@ -7535,7 +7535,7 @@
                     "value": true
                 },
                 "is_enabled_for_discover": {
-                    "value": false
+                    "value": true
                 },
                 "is_discover_long_press_enabled": {
                     "value": true
