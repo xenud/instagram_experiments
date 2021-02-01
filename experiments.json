@@ -7540,6 +7540,18 @@
                 "is_discover_long_press_enabled": {
                     "value": true
                 },
+                "ig_viewer_modal_fragment_execute_immediately": {
+                    "value": false
+                },
+                "igtv_viewer_modal_fragment_execute_immediately": {
+                    "value": false
+                },
+                "launch_ig_viewer_as_modal_fragment": {
+                    "value": false
+                },
+                "launch_igtv_viewer_as_modal_fragment": {
+                    "value": false
+                },
                 "live_now_live_see_all_enabled": {
                     "value": true
                 },
