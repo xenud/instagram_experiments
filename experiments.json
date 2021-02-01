@@ -1141,6 +1141,9 @@
                 },
                 "use_ig_handler_factory": {
                     "value": true
+                },
+                "use_task_uploader": {
+                    "value": false
                 }
             }
         },
