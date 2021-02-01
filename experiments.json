@@ -3067,6 +3067,9 @@
                     "logging_id": [
                         "704217680239848"
                     ]
+                },
+                "test_mode_enabled": {
+                    "value": false
                 }
             }
         },
