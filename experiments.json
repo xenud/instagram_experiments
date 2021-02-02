@@ -6802,7 +6802,7 @@
                 "event_loop_thread_priority": {
                     "value": 0
                 },
-                "use_async_http_service_layer": {
+                "use_mobile_network_stack_service_layer": {
                     "value": true
                 }
             }
@@ -7905,6 +7905,16 @@
             "params": {
                 "enabled": {
                     "value": true
+                }
+            }
+        },
+        "ig_media_deletion": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "always_show_nux": {
+                    "value": false
                 }
             }
         },
