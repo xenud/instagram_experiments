@@ -1624,9 +1624,9 @@
         "ig_android_pv_ads_2nd_cta_launcher": {
             "params": {
                 "enable_automatic_secondary_cta": {
-                    "value": false,
+                    "value": true,
                     "logging_id": [
-                        "2817935328447162"
+                        "784708218794741"
                     ]
                 }
             }
