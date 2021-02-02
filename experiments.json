@@ -4659,6 +4659,9 @@
                 },
                 "show_swipe_up_nux_immediately": {
                     "value": false
+                },
+                "is_loop_prefetch_check_enabled": {
+                    "value": false
                 }
             }
         },
