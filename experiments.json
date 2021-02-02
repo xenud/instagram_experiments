@@ -1511,16 +1511,10 @@
         "ig_android_ctd_recommend_launcher": {
             "params": {
                 "enable_chevron_update": {
-                    "value": false,
-                    "logging_id": [
-                        "868370450586525"
-                    ]
+                    "value": false
                 },
                 "enable_recommendation": {
-                    "value": false,
-                    "logging_id": [
-                        "868370450586525"
-                    ]
+                    "value": false
                 }
             }
         },
@@ -2966,28 +2960,16 @@
         "ig_android_reels_download_with_music": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "156502836175044"
-                    ]
+                    "value": true
                 },
                 "is_creation_download_with_music_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "156502836175044"
-                    ]
+                    "value": true
                 },
                 "is_consumption_download_with_music_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "156502836175044"
-                    ]
+                    "value": true
                 },
                 "should_disable_creation_download": {
-                    "value": false,
-                    "logging_id": [
-                        "156502836175044"
-                    ]
+                    "value": false
                 }
             }
         },
@@ -8326,7 +8308,7 @@
         "fbpay_ig_android_shared_graphql_query_experiment": {
             "params": {
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
