@@ -2542,34 +2542,6 @@
                 }
             }
         },
-        "ig_camera_android_reels_layout": {
-            "params": {
-                "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "733095910657969"
-                    ]
-                },
-                "is_resizable": {
-                    "value": false,
-                    "logging_id": [
-                        "733095910657969"
-                    ]
-                },
-                "show_new_badge": {
-                    "value": false,
-                    "logging_id": [
-                        "733095910657969"
-                    ]
-                },
-                "delete_drag": {
-                    "value": false,
-                    "logging_id": [
-                        "733095910657969"
-                    ]
-                }
-            }
-        },
         "ig_camera_android_refresh": {
             "params": {
                 "is_enabled": {
