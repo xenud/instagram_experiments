@@ -2810,6 +2810,13 @@
                 }
             }
         },
+        "ig_android_clips_people_tags": {
+            "params": {
+                "consumption_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_direct_add_to_story_redesign": {
             "params": {
                 "enabled": {
