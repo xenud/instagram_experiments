@@ -6802,8 +6802,8 @@
                 "event_loop_thread_priority": {
                     "value": 0
                 },
-                "use_mns_async_http_service_layer": {
-                    "value": false
+                "use_async_http_service_layer": {
+                    "value": true
                 }
             }
         },
@@ -7537,7 +7537,7 @@
         "ig_android_live_hide_comment_prompts": {
             "params": {
                 "comment_prompts_disabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
