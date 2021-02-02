@@ -2929,6 +2929,13 @@
                 }
             }
         },
+        "ig_android_reels_creator_deals": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_reels_crops_and_background": {
             "params": {
                 "is_enabled": {
