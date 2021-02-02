@@ -5359,6 +5359,16 @@
                 }
             }
         },
+        "ig_android_discover_people_entry_point_self_profile": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "landing_discover_people_module": {
+                    "value": "discover_people"
+                }
+            }
+        },
         "ig_android_dont_prefetch_follow_list": {
             "params": {
                 "is_enabled": {
@@ -5376,6 +5386,13 @@
             "params": {
                 "is_enabled": {
                     "value": true
+                }
+            }
+        },
+        "ig_android_feed_su_large_cards": {
+            "params": {
+                "card_size": {
+                    "value": "small"
                 }
             }
         },
@@ -5540,13 +5557,22 @@
         "ig_android_upsell_notifications": {
             "params": {
                 "is_entrypoint_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "504476007018687"
+                    ]
                 },
                 "remove_following_sheet_entrypoint": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "504476007018687"
+                    ]
                 },
                 "is_tooltip_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "504476007018687"
+                    ]
                 }
             }
         },
