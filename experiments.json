@@ -5374,13 +5374,6 @@
                 }
             }
         },
-        "ig_android_feed_su_large_cards": {
-            "params": {
-                "card_size": {
-                    "value": "small"
-                }
-            }
-        },
         "ig_android_feed_xposting_privacy_only_me_fix": {
             "params": {
                 "is_enabled": {
