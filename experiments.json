@@ -9681,7 +9681,7 @@
         "ig_android_mentions_typeahead_linkify": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
