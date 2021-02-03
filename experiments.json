@@ -11397,6 +11397,9 @@
         },
         "ig_android_vc_pip_support": {
             "params": {
+                "is_enabled_for_new_stack": {
+                    "value": false
+                },
                 "is_enabled": {
                     "value": false
                 },
