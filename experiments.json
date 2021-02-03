@@ -4766,6 +4766,13 @@
                 }
             }
         },
+        "ig_android_explore_mvvm": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_explore_top_nav_redesign": {
             "params": {
                 "display_wider_pills": {
