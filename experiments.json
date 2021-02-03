@@ -910,7 +910,7 @@
         "instagram_3pd_ads_personalization": {
             "params": {
                 "enable_3pd_ads_personalization": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -4826,16 +4826,16 @@
         "ig_android_guides_creation": {
             "params": {
                 "places_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "products_enabled": {
                     "value": true
                 },
                 "is_drafts_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -11688,16 +11688,28 @@
         "ig_fundraiser_feed_creation": {
             "params": {
                 "feed_composer_enable_fundraiser_row": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
+                    ]
                 },
                 "feed_refresh_check_fundraiser_deletion": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
+                    ]
                 },
                 "feed_composer_show_in_review_alert": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
+                    ]
                 },
                 "account_settings_enable_fundraiser_row": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
+                    ]
                 },
                 "feed_composer_add_a_fundraiser_dialog_enabled": {
                     "value": false
