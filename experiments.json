@@ -7343,16 +7343,6 @@
                 }
             }
         },
-        "reorder_seek_params": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                },
-                "reorder_seek_prepare": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_interactions_story_toolbar_qr_entry_point_launcher": {
             "params": {
                 "hide_camera_icon": {
@@ -9933,9 +9923,6 @@
                     "value": 100
                 },
                 "start_reel_at_fully_unseen_items": {
-                    "value": false
-                },
-                "initialize_seen_state_store_on_login": {
                     "value": false
                 },
                 "toast_seen_state_errors": {
