@@ -10314,6 +10314,13 @@
                 }
             }
         },
+        "ig_threads_android_new_settings_menu": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_threads_android_new_status_home": {
             "params": {
                 "is_enabled": {
