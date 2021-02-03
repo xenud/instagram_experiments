@@ -5063,6 +5063,9 @@
                 },
                 "lightweight_refresh_on_feed_disappeared": {
                     "value": true
+                },
+                "lightweight_end_time": {
+                    "value": 0.0
                 }
             }
         },
