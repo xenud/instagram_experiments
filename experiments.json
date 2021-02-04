@@ -7750,25 +7750,6 @@
                 }
             }
         },
-        "ig_live_android_viewer_redesign_viewer_v1": {
-            "params": {
-                "grid_layout_debug_views": {
-                    "value": 0
-                },
-                "ufi_redesign_enabled": {
-                    "value": false
-                },
-                "aspect_ratio_redesign_enabled": {
-                    "value": false
-                },
-                "header_redesign_enabled": {
-                    "value": true
-                },
-                "is_comment_warning_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_live_with_android_invite_broadcaster": {
             "params": {
                 "enable_broadcaster": {
