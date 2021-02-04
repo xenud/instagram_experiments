@@ -6805,7 +6805,7 @@
                     "value": 0
                 },
                 "use_mobile_network_stack_service_layer": {
-                    "value": true
+                    "value": false
                 },
                 "use_tls13_socket": {
                     "value": false
