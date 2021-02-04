@@ -4850,6 +4850,9 @@
                 },
                 "is_drafts_enabled": {
                     "value": true
+                },
+                "allow_old_one_item_guides": {
+                    "value": true
                 }
             }
         },
