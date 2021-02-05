@@ -5072,22 +5072,6 @@
                 }
             }
         },
-        "ig_android_mainfeed_scroll_bounds": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                },
-                "lower_bound": {
-                    "value": 1.0
-                },
-                "upper_bound": {
-                    "value": 0.0
-                },
-                "disable_swipe_on_modals": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_media_store": {
             "params": {
                 "check_disk_full": {
