@@ -6933,7 +6933,10 @@
                     "value": 2
                 },
                 "use_async_liger": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "867787447340972"
+                    ]
                 },
                 "should_recv_batch": {
                     "value": true
