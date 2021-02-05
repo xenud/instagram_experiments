@@ -3176,6 +3176,9 @@
             "params": {
                 "enable_profile_side_tray_upsell_android": {
                     "value": true
+                },
+                "android_enable_proactive_selfie_sticker_qp": {
+                    "value": true
                 }
             }
         },
