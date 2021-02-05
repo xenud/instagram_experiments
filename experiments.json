@@ -11537,6 +11537,18 @@
         },
         "ig_android_migrate_reporting_www_bloks_h1": {
             "params": {
+                "enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "1072302669911746"
+                    ]
+                },
+                "supported_content_types": {
+                    "value": "[6, 8, 10, 11, 12, 13, 15]",
+                    "logging_id": [
+                        "1072302669911746"
+                    ]
+                },
                 "launched_content_types": {
                     "value": "[1,2]"
                 }
