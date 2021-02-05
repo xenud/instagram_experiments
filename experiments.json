@@ -5045,6 +5045,9 @@
                 "min_age_seconds": {
                     "value": 30
                 },
+                "should_prepend_on_unseen_feed": {
+                    "value": false
+                },
                 "hold_place_aggressively": {
                     "value": true
                 }
@@ -5135,7 +5138,7 @@
                     "value": true
                 },
                 "delete_feed_cache_json": {
-                    "value": true
+                    "value": false
                 }
             }
         },
