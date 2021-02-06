@@ -6508,10 +6508,7 @@
         "ig_android_launcher_prefetch_scheduler_graph_source": {
             "params": {
                 "fix_explore_graph": {
-                    "value": false,
-                    "logging_id": [
-                        "3540214772698543"
-                    ]
+                    "value": false
                 }
             }
         },
