@@ -2535,10 +2535,7 @@
         "ig_camera_android_reels_draft_in_gallery": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "403317630721184"
-                    ]
+                    "value": true
                 }
             }
         },
