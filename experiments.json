@@ -706,6 +706,9 @@
             "params": {
                 "is_showreel_native_enabled": {
                     "value": true
+                },
+                "is_showreel_composition_enabled": {
+                    "value": false
                 }
             }
         },
