@@ -11595,16 +11595,10 @@
         "ig_android_tiered_warning_launcher": {
             "params": {
                 "content": {
-                    "value": "loss_framing",
-                    "logging_id": [
-                        "2841052722803125"
-                    ]
+                    "value": "loss_framing"
                 },
                 "is_tiered_warning_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "2841052722803125"
-                    ]
+                    "value": true
                 }
             }
         },
