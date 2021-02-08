@@ -2279,13 +2279,6 @@
                 }
             }
         },
-        "ig_android_text_tools_v2_animations_universe": {
-            "params": {
-                "animations_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_use_ard_for_nametag": {
             "params": {
                 "use_card_crop": {
