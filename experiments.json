@@ -3920,7 +3920,7 @@
         "ig_android_profile_share_feature_gating_launcher": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -5442,10 +5442,7 @@
         "ig_android_optimistic_xposting_destionation": {
             "params": {
                 "optimistic_destination_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1098823317247351"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -11591,7 +11588,7 @@
                     "value": true
                 },
                 "supported_content_types": {
-                    "value": "[1,2]"
+                    "value": "[1.2]"
                 }
             }
         },
