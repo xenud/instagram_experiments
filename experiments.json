@@ -7775,6 +7775,9 @@
                 },
                 "is_aspect_ratio_16_9": {
                     "value": false
+                },
+                "guest_version_gating_for_experiments": {
+                    "value": false
                 }
             }
         },
