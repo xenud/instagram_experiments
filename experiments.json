@@ -9914,6 +9914,9 @@
                 },
                 "derive_media_ids_from_existing_items": {
                     "value": false
+                },
+                "max_persisted_entries": {
+                    "value": 250
                 }
             }
         },
