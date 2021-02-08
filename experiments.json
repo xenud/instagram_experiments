@@ -2282,7 +2282,7 @@
         "ig_android_text_tools_v2_animations_universe": {
             "params": {
                 "animations_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
