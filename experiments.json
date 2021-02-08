@@ -3316,7 +3316,7 @@
         "ig_android_camera_effect_share_feature_gating_launcher": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -3834,7 +3834,7 @@
         "ig_android_guide_share_feature_gating_launcher": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
