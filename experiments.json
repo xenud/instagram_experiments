@@ -5178,6 +5178,22 @@
                 }
             }
         },
+        "ig_split_head_load": {
+            "params": {
+                "show_shimmer_on_cold_start": {
+                    "value": false
+                },
+                "minimum_time_since_last_feed_cache_seconds": {
+                    "value": 0
+                },
+                "cold_start_feed_shimmer_duration": {
+                    "value": 0
+                },
+                "is_split_head_load_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_igtv_creation": {
             "params": {
                 "is_drafts_enabled": {
