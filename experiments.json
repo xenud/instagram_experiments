@@ -9243,10 +9243,7 @@
         "ig_shopping_android_sticky_cta": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "247330246756105"
-                    ]
+                    "value": true
                 }
             }
         },
