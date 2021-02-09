@@ -9493,6 +9493,13 @@
                 }
             }
         },
+        "ig_shopping_tail_load_logging": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_shopping_unified_action_bar": {
             "params": {
                 "is_enabled": {
