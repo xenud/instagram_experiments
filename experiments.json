@@ -3105,16 +3105,16 @@
                 "consumption_enabled": {
                     "value": true
                 },
-                "creation_enabled": {
-                    "value": false
-                },
                 "postcapture_download_enabled": {
                     "value": false
                 },
                 "audio_mixing_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "voiceover_enabled": {
+                    "value": true
+                },
+                "self_viewer_download_enabled": {
                     "value": false
                 },
                 "android_playback_speed_enabled": {
@@ -3130,13 +3130,13 @@
                     "value": true
                 },
                 "android_cover_gen_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "android_video_pool_count": {
                     "value": 4
                 },
                 "android_video_pool_update_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
