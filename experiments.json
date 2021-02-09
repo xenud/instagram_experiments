@@ -5589,6 +5589,13 @@
                 }
             }
         },
+        "ig_android_xposting_feed_destination_picker": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_badging_periodic_refresh": {
             "params": {
                 "use_badging_platform": {
@@ -9293,7 +9300,7 @@
         "ig_shopping_async_fetch_pdp_hero_carousel": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
