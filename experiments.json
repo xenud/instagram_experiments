@@ -8694,23 +8694,11 @@
                 "enable_dtx": {
                     "value": -1
                 },
-                "frame_size_ms": {
-                    "value": 20
-                },
-                "max_complexity": {
-                    "value": 5
-                },
                 "vbr": {
                     "value": -1
                 },
-                "signal_type": {
-                    "value": 1
-                },
                 "initiate_bitrate_bps": {
                     "value": -1
-                },
-                "enable_fec": {
-                    "value": 0
                 },
                 "complexity_threshold_bps": {
                     "value": -1
@@ -8718,14 +8706,8 @@
                 "override_sdp_paramaters": {
                     "value": -1
                 },
-                "sample_rate": {
-                    "value": 4
-                },
                 "complexity_threshold_window_bps": {
                     "value": -1
-                },
-                "min_complexity": {
-                    "value": 5
                 },
                 "max_bitrate_kbps": {
                     "value": -1
