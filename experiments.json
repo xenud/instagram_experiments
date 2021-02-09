@@ -7722,7 +7722,7 @@
                     "value": 2
                 },
                 "enforce_key_frame_interval": {
-                    "value": false
+                    "value": true
                 },
                 "frame_rate": {
                     "value": 30
