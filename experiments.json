@@ -2973,7 +2973,7 @@
         "ig_android_reels_optimistic_thumbnail_generation": {
             "params": {
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
