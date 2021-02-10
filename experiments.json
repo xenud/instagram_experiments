@@ -8474,6 +8474,13 @@
                 }
             }
         },
+        "ig_android_realtime_subscription_log": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_launcher_ig_android_reactnative_realtime_ota": {
             "params": {
                 "is_buffer_enabled": {
