@@ -1650,6 +1650,13 @@
                 }
             }
         },
+        "ig_android_settings_accounts_refetch_user_model": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_siep_unauthorized_launcher": {
             "params": {
                 "is_enabled": {
