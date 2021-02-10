@@ -2564,28 +2564,6 @@
                 }
             }
         },
-        "ig_camera_android_refresh": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                },
-                "whack_mole_enabled": {
-                    "value": false
-                },
-                "is_bubble_boi_enabled": {
-                    "value": true
-                },
-                "live_label_duration_ms": {
-                    "value": 6000
-                },
-                "reels_label_duration_ms": {
-                    "value": 6000
-                },
-                "label_text_duration_ms": {
-                    "value": 6000
-                }
-            }
-        },
         "ig_camera_android_refresh_v2": {
             "params": {
                 "is_reels_speed_selector_enabled": {
@@ -6499,22 +6477,13 @@
         "ig_android_launcher_explore_prefetch_api_framework_migration": {
             "params": {
                 "include_is_prefetch": {
-                    "value": true,
-                    "logging_id": [
-                        "1320594734971608"
-                    ]
+                    "value": true
                 },
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1320594734971608"
-                    ]
+                    "value": true
                 },
                 "cache_expire_in_hr": {
-                    "value": 24,
-                    "logging_id": [
-                        "1320594734971608"
-                    ]
+                    "value": 24
                 }
             }
         },
