@@ -2564,16 +2564,6 @@
                 }
             }
         },
-        "ig_camera_android_refresh_v2": {
-            "params": {
-                "is_reels_speed_selector_enabled": {
-                    "value": true
-                },
-                "is_handedness_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_camera_android_save_photo_metadata": {
             "params": {
                 "save_metadata": {
