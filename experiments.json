@@ -8436,7 +8436,7 @@
         "ig_android_realtime_subscription_log": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
