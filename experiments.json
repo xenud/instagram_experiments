@@ -9489,6 +9489,13 @@
                 }
             }
         },
+        "ig_shopping_restock_reminder": {
+            "params": {
+                "feature_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_shopping_shop_home_fetch_strategy": {
             "params": {
                 "disk_caching_is_enabled_ios": {
