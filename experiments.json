@@ -2464,16 +2464,6 @@
                 }
             }
         },
-        "ig_camera_android_layout_v2": {
-            "params": {
-                "show_updated_badge": {
-                    "value": false
-                },
-                "is_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_camera_android_mini_gallery": {
             "params": {
                 "categories_cache_hours": {
@@ -10263,10 +10253,7 @@
         "ig_threads_android_auto_status_snooze": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_threads_android_auto_status_snooze_gk$public$control$4$1732278C"
-                    ]
+                    "value": true
                 }
             }
         },
