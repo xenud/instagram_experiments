@@ -9322,7 +9322,7 @@
         "ig_shopping_async_fetch_pdp_hero_carousel": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
