@@ -9828,6 +9828,16 @@
                 }
             }
         },
+        "ig_android_rifu_optimizations": {
+            "params": {
+                "disable_reels_viewer_ptr": {
+                    "value": false
+                },
+                "disable_reels_viewer_sync_with_grid_store": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_ring_spec_singleton": {
             "params": {
                 "enabled": {
