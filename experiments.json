@@ -226,6 +226,28 @@
                 }
             }
         },
+        "ig_android_feed_viewpoint_logging_gap_launcher": {
+            "params": {
+                "clip_title_bar_enabled": {
+                    "value": false
+                },
+                "clip_keyboard_enabled": {
+                    "value": false
+                },
+                "clip_bottom_sheet_enabled": {
+                    "value": false
+                },
+                "clip_keyboard_enabled_feed_only": {
+                    "value": false
+                },
+                "clip_bottom_sheet_enabled_feed_only": {
+                    "value": false
+                },
+                "total_media_height_calculation_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_hp2_push_up": {
             "params": {
                 "enable_media_base_highest_position": {
