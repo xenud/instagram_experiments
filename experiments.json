@@ -11751,12 +11751,6 @@
             "params": {
                 "is_enabled": {
                     "value": false
-                },
-                "is_enabled_ios": {
-                    "value": false
-                },
-                "is_enabled_android": {
-                    "value": false
                 }
             }
         },
