@@ -1653,7 +1653,7 @@
         "ig_android_settings_accounts_refetch_user_model": {
             "params": {
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
