@@ -10299,7 +10299,7 @@
                     "value": false
                 },
                 "min_cf_threshold": {
-                    "value": 3
+                    "value": 3000
                 }
             }
         },
