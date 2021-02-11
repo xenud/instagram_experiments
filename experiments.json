@@ -584,7 +584,7 @@
                     "value": false
                 },
                 "enable_overprefetch_protection": {
-                    "value": false
+                    "value": true
                 }
             }
         },
