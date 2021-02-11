@@ -582,6 +582,9 @@
                 },
                 "notify_completion_upon_response_processed": {
                     "value": false
+                },
+                "enable_overprefetch_protection": {
+                    "value": false
                 }
             }
         },
