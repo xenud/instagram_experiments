@@ -686,6 +686,9 @@
                 },
                 "is_showreel_video_enabled": {
                     "value": false
+                },
+                "sn_negligible_image_size_difference": {
+                    "value": 5
                 }
             }
         },
