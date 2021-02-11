@@ -1351,6 +1351,13 @@
                 }
             }
         },
+        "ig_android_photo_fbc_event": {
+            "params": {
+                "sample_rate": {
+                    "value": 20
+                }
+            }
+        },
         "ig_android_photo_log_fbc_event": {
             "params": {
                 "is_enabled": {
