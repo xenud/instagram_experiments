@@ -5170,13 +5170,16 @@
                 "show_shimmer_on_cold_start": {
                     "value": false
                 },
-                "minimum_time_since_last_feed_cache_seconds": {
-                    "value": 0
-                },
-                "cold_start_feed_shimmer_duration": {
-                    "value": 0
-                },
                 "is_split_head_load_enabled": {
+                    "value": false
+                },
+                "always_show_new_posts_pill": {
+                    "value": false
+                },
+                "enable_split_head_load_with_new_posts": {
+                    "value": false
+                },
+                "append_subsequent_response_to_feed": {
                     "value": false
                 }
             }
