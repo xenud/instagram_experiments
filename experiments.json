@@ -3698,6 +3698,12 @@
                 "killswitch_for_upgraded_users": {
                     "value": true
                 },
+                "is_enabled": {
+                    "value": false
+                },
+                "should_top_align_context_lines": {
+                    "value": false
+                },
                 "killswitch_for_eligible_users": {
                     "value": true
                 },
