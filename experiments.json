@@ -10287,10 +10287,7 @@
         "ig_threads_android_growth_nux": {
             "params": {
                 "enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "GK$ig_threads_android_growth_nux_gk$public$testing$4$1726265T"
-                    ]
+                    "value": false
                 },
                 "min_cf_threshold": {
                     "value": 3
