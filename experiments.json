@@ -3830,6 +3830,16 @@
                 }
             }
         },
+        "ig_android_direct_xac_share_sheet_suggested_length": {
+            "params": {
+                "insert_fbsection_at_pos": {
+                    "value": -1
+                },
+                "igss_ns_msgr_limit": {
+                    "value": 10
+                }
+            }
+        },
         "ig_android_feed_share_feature_gating_launcher": {
             "params": {
                 "is_enabled": {
@@ -4901,6 +4911,9 @@
                     "value": false
                 },
                 "show_tooltip_in_viewer": {
+                    "value": false
+                },
+                "should_check_push_without_exposure": {
                     "value": false
                 }
             }
