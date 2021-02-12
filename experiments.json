@@ -3791,6 +3791,13 @@
                 }
             }
         },
+        "ig_android_direct_update_thread_summary_after_loaded": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_direct_updated_native_sharesheet": {
             "params": {
                 "enabled": {
