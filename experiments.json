@@ -7206,16 +7206,10 @@
         "ig_android_user_list_recyclerview": {
             "params": {
                 "likes_list": {
-                    "value": false,
-                    "logging_id": [
-                        "832131994275809"
-                    ]
+                    "value": false
                 },
                 "explore_people": {
-                    "value": false,
-                    "logging_id": [
-                        "832131994275809"
-                    ]
+                    "value": false
                 }
             }
         },
