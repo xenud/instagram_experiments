@@ -3699,10 +3699,10 @@
                     "value": true
                 },
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "should_top_align_context_lines": {
-                    "value": false
+                    "value": true
                 },
                 "killswitch_for_eligible_users": {
                     "value": true
