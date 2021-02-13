@@ -7263,10 +7263,7 @@
         "ig_android_xplat_bandwidth_estimator": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "908604389877198"
-                    ]
+                    "value": false
                 }
             }
         },
