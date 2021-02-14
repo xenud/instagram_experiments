@@ -6886,6 +6886,9 @@
                 },
                 "use_tls13_socket": {
                     "value": false
+                },
+                "tcp_fallback_quic_backoff_interval_ms": {
+                    "value": 0
                 }
             }
         },
