@@ -4974,10 +4974,7 @@
         "ig_android_bloks_prefetch": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "762966207911760"
-                    ]
+                    "value": false
                 }
             }
         },
@@ -7215,10 +7212,7 @@
         "ig_android_unstable_content_provider_query": {
             "params": {
                 "fix_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "401511851185206"
-                    ]
+                    "value": false
                 }
             }
         },
