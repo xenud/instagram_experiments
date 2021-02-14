@@ -1639,10 +1639,7 @@
         "ig_android_promote_non_discrimination_policy_migration": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "722674098650662"
-                    ]
+                    "value": true
                 }
             }
         },
