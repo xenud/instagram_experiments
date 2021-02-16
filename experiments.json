@@ -3773,6 +3773,13 @@
                 }
             }
         },
+        "ig_android_direct_thread_action_bar_perf": {
+            "params": {
+                "is_view_model_diffing_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_direct_thread_details_entry_launcher": {
             "params": {
                 "show_chevron": {
