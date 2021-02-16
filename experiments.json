@@ -8604,6 +8604,13 @@
                 }
             }
         },
+        "ig_android_vc_call_sounds": {
+            "params": {
+                "incall_sounds_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_vc_call_sounds_disconnected": {
             "params": {
                 "is_enabled": {
