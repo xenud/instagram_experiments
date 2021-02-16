@@ -8160,6 +8160,13 @@
                 }
             }
         },
+        "ig_android_tab_action_migration": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_app_speed_anr_fixes": {
             "params": {
                 "enable_login_anr_fix": {
