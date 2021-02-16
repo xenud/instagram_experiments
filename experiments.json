@@ -1940,6 +1940,13 @@
                 }
             }
         },
+        "ig_android_smb_growth_targeting_model_launcher": {
+            "params": {
+                "use_new_ci_model": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_smb_growth_targeting_new_model_launcher": {
             "params": {
                 "is_enabled": {
