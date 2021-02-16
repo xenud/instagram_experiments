@@ -6950,6 +6950,22 @@
                 }
             }
         },
+        "ig_android_pending_media_cleanup_thresholds_launcher": {
+            "params": {
+                "is_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "530554001250163"
+                    ]
+                },
+                "old_files_age_limit_mins": {
+                    "value": 180,
+                    "logging_id": [
+                        "530554001250163"
+                    ]
+                }
+            }
+        },
         "ig_android_photos_qpl_config": {
             "params": {
                 "is_enabled": {
