@@ -3198,6 +3198,9 @@
                 },
                 "android_enable_proactive_selfie_sticker_qp": {
                     "value": true
+                },
+                "android_enable_quoted_replies_qp": {
+                    "value": true
                 }
             }
         },
