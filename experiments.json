@@ -8607,7 +8607,7 @@
         "ig_android_vc_call_sounds": {
             "params": {
                 "incall_sounds_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
