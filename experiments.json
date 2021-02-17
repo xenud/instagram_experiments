@@ -11816,28 +11816,16 @@
         "ig_fundraiser_feed_creation": {
             "params": {
                 "feed_composer_enable_fundraiser_row": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
-                    ]
+                    "value": true
                 },
                 "feed_refresh_check_fundraiser_deletion": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
-                    ]
+                    "value": true
                 },
                 "feed_composer_show_in_review_alert": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
-                    ]
+                    "value": true
                 },
                 "account_settings_enable_fundraiser_row": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_standalone_fundraiser_4_charity_creation$non_us_rollout$control$4$1699849C"
-                    ]
+                    "value": true
                 },
                 "feed_composer_add_a_fundraiser_dialog_enabled": {
                     "value": false
