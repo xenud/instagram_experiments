@@ -820,10 +820,7 @@
         "ig_ctd_ads_stories_onfeed": {
             "params": {
                 "show_onfeed": {
-                    "value": true,
-                    "logging_id": [
-                        "249422910162037"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -8543,6 +8540,13 @@
                 },
                 "buffer": {
                     "value": 86400000
+                }
+            }
+        },
+        "ig_android_cowatch_volume_slider": {
+            "params": {
+                "enabled": {
+                    "value": false
                 }
             }
         },
