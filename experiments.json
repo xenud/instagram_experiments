@@ -7316,6 +7316,9 @@
                 },
                 "is_view_check_enabled": {
                     "value": false
+                },
+                "is_surface_enabled": {
+                    "value": false
                 }
             }
         },
