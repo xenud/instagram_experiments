@@ -11714,6 +11714,16 @@
                 }
             }
         },
+        "ig_android_migrate_support_inbox_www_bloks": {
+            "params": {
+                "is_enabled": {
+                    "value": false,
+                    "logging_id": [
+                        "1694077880753449"
+                    ]
+                }
+            }
+        },
         "ig_android_new_privacy_setting_launcher": {
             "params": {
                 "is_enabled": {
