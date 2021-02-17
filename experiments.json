@@ -8618,6 +8618,25 @@
                 }
             }
         },
+        "ig_android_vc_drop_in_launcher": {
+            "params": {
+                "signaling_enabled": {
+                    "value": false
+                },
+                "countdown_time": {
+                    "value": 3
+                },
+                "thread_presence_ui_enabled": {
+                    "value": false
+                },
+                "drop_in_enabled": {
+                    "value": false
+                },
+                "start_regular_call": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_vc_interop_launcher": {
             "params": {
                 "is_enabled": {
