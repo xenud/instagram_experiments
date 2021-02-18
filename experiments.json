@@ -6939,7 +6939,7 @@
                     ]
                 },
                 "is_graceful_error_handling_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "blacklist": {
                     "value": "{'cpuBoost': [{'deviceModel': 'ASUS_X018D'}, {'deviceModel': 'ASUS_X008DB'}, {'deviceModel': 'ASUS_X008DC'}, {'deviceModel': 'ASUS_X008D'}, {'deviceModel': 'ASUS_X008DA'}, {'deviceModel': 'C2104', 'osVersion': '17'}, {'deviceModel': 'C2105', 'osVersion': '17'}, {'deviceBrand': 'samsung', 'deviceChipset': 'sdm845', 'osVersion': '28'}, {'deviceModel': 'vivo 1606'}, {'deviceModel': 'vivo 1610'}, {'deviceModel': 'N-06E', 'appId': '275254692598279'}], 'gpuBoost': [], 'delayedGC': [{'osVersion': '19'}, {'osVersion': '20'}, {'osVersion': '21'}, {'osVersion': '22'}, {'osVersion': '23'}], 'layoutPreinflation': [], 'threadAffinity': [], 'delayedAnalytics': [], 'deepDataCollection': [], 'softKeyboard': [], 'renderThreadBoost': [], 'lithoLayoutThreadBoost': [], 'uiThreadBoost': [], 'classPreloading': [], 'blockIdleJob': [], 'orderFile': [], 'threadAffinityWithName': [], 'graphQLExecutor': [], 'activityThread': [], 'appJobs': [], 'delayedDiskWrites': [], 'threadBoostByName': [], 'smartFsync': []}"
