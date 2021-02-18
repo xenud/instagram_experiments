@@ -2496,10 +2496,13 @@
         "ig_camera_android_mini_gallery": {
             "params": {
                 "categories_cache_hours": {
-                    "value": 72
+                    "value": 168
                 },
                 "category_effects_cache_hours": {
                     "value": 24
+                },
+                "effect_tray_cache_hours": {
+                    "value": 3
                 }
             }
         },
