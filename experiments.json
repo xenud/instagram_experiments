@@ -11172,16 +11172,6 @@
                 }
             }
         },
-        "ig_android_reels_clips_video_launching_bitrate": {
-            "params": {
-                "transcoding_bitrate": {
-                    "value": 3500000,
-                    "logging_id": [
-                        "823863801757250"
-                    ]
-                }
-            }
-        },
         "ig_android_reels_scroll_perf": {
             "params": {
                 "enable_flat_layout": {
