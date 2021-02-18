@@ -7167,6 +7167,9 @@
             "params": {
                 "e2e_sample_rate": {
                     "value": 1
+                },
+                "pulsar_sample_rate": {
+                    "value": 0
                 }
             }
         },
