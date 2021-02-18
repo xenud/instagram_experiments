@@ -585,6 +585,9 @@
                 },
                 "enable_overprefetch_protection": {
                     "value": true
+                },
+                "reinvalidate_on_entry": {
+                    "value": false
                 }
             }
         },
