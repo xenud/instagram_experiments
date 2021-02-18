@@ -3456,19 +3456,6 @@
                 }
             }
         },
-        "ig_android_direct_msys_activity_indicator": {
-            "params": {
-                "is_one_to_one_thread_typing_enabled": {
-                    "value": false
-                },
-                "is_receive_enabled_for_interop_users": {
-                    "value": false
-                },
-                "is_send_enabled_for_interop_users": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_direct_msys_inbox": {
             "params": {
                 "redux_enabled": {
