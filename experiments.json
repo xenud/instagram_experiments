@@ -2496,7 +2496,7 @@
         "ig_camera_android_mini_gallery": {
             "params": {
                 "categories_cache_hours": {
-                    "value": 168
+                    "value": 72
                 },
                 "category_effects_cache_hours": {
                     "value": 24
