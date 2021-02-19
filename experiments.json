@@ -4986,10 +4986,7 @@
         "ig_android_bloks_prefetch": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "762966207911760"
-                    ]
+                    "value": false
                 }
             }
         },
