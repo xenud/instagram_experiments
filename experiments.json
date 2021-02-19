@@ -4986,7 +4986,10 @@
         "ig_android_bloks_prefetch": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "762966207911760"
+                    ]
                 }
             }
         },
@@ -9287,10 +9290,7 @@
         "ig_shop_home_bell_icon": {
             "params": {
                 "show_top_level_icon": {
-                    "value": false,
-                    "logging_id": [
-                        "1403534610000398"
-                    ]
+                    "value": false
                 }
             }
         },
