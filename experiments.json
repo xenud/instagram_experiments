@@ -6503,6 +6503,16 @@
                 }
             }
         },
+        "ig_android_ingestion_keepalive": {
+            "params": {
+                "enable_gc_trigger": {
+                    "value": false
+                },
+                "enable_foreground_service": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_instacrash": {
             "params": {
                 "is_enabled": {
