@@ -11334,7 +11334,19 @@
         "ig_android_video_system_volume_v2": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
+                },
+                "is_default_sound_on_lazy_loaded": {
+                    "value": false
+                },
+                "is_cached_volume_enabled": {
+                    "value": false
+                },
+                "is_cached_ringer_mode_enabled": {
+                    "value": false
+                },
+                "is_ringer_mode_observer_enabled": {
+                    "value": false
                 }
             }
         },
