@@ -8771,6 +8771,13 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_audiosendsidebweconfig": {
+            "params": {
+                "audio_sendside_bwe": {
+                    "value": 0
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_edgerayrsysconfig": {
             "params": {
                 "detect_default_apn": {
