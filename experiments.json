@@ -9017,6 +9017,21 @@
                 },
                 "enable_search_box_recommendations": {
                     "value": false
+                },
+                "rank_keyword_bootstrap_by_score": {
+                    "value": false
+                },
+                "enable_keyword_prefix_match": {
+                    "value": false
+                },
+                "do_not_delay_keyword_bootstrap_matches": {
+                    "value": false
+                },
+                "blend_server_and_bootstrap_keywords": {
+                    "value": false
+                },
+                "only_show_server_keywords": {
+                    "value": false
                 }
             }
         },
