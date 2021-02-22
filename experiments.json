@@ -6885,9 +6885,6 @@
                 "quic_initial_max_stream_data_bidi_local": {
                     "value": 163840
                 },
-                "request_cancellation_enabled": {
-                    "value": true
-                },
                 "max_request_retries": {
                     "value": 0
                 },
