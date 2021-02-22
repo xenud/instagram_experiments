@@ -4989,7 +4989,7 @@
         "ig_android_bloks_prefetch": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
