@@ -2259,16 +2259,6 @@
                 }
             }
         },
-        "ig_android_igl_activation_sparksl_runtime": {
-            "params": {
-                "sparksl_enabled": {
-                    "value": false
-                },
-                "igl_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_reels_save_uplevel": {
             "params": {
                 "enabled": {
