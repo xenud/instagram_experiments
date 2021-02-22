@@ -1003,7 +1003,7 @@
                     "value": 0
                 },
                 "regular_foreground_max_delay_for_batch_ms": {
-                    "value": 1800000
+                    "value": 600000
                 },
                 "highpri_background_max_delay_for_single_event_ms": {
                     "value": 0
@@ -1027,7 +1027,7 @@
                     "value": 20000
                 },
                 "highpri_foreground_max_delay_for_batch_ms": {
-                    "value": 0
+                    "value": 1000
                 },
                 "highpri_buffer_pool": {
                     "value": 1024
@@ -1036,7 +1036,7 @@
                     "value": true
                 },
                 "regular_foreground_min_delay_for_batch_ms": {
-                    "value": 0
+                    "value": 300000
                 },
                 "regular_in_mem_batch_amount": {
                     "value": 30
@@ -1045,7 +1045,7 @@
                     "value": 300000
                 },
                 "regular_background_min_delay_for_single_event_ms": {
-                    "value": 10800000
+                    "value": 300000
                 },
                 "micro_batch_regular_exempt_latency": {
                     "value": 900000
@@ -1060,10 +1060,10 @@
                     "value": 50
                 },
                 "unbatched_events": {
-                    "value": "[\"video_started_playing\",\"video_audio_disabled\",\"video_displayed\",\"video_viewed_time\",\"instagram_ad_comment\",\"video_buffering_started\",\"instagram_ad_sub_viewed_impression\",\"video_played_time\",\"instagram_ad_sub_impression\",\"video_format_changed\",\"video_should_start\",\"instagram_ad_viewability\",\"video_fetched\",\"video_buffering_finished\",\"video_paused\",\"instagram_ad_impression\",\"video_full_viewed_time\",\"instagram_ad_action\",\"instagram_ad_viewed_impression\",\"instagram_ad_time_spent\",\"instagram_ad_rendering_event\",\"video_exited\",\"navigation\",\"instagram_ad_delivery\",\"instagram_ad_like\",\"instagram_media_metrics\",\"qp_exposure\",\"instagram_ad_async_ad_controller_action_success\",\"reel_playback_navigation\",\"instagram_netego_delivery\",\"instagram_ad_reel_time_spent\",\"instagram_ad_insertion_success\",\"instagram_ad_reel_request_finish\",\"instagram_ad_reel_impression\",\"instagram_ad_reel_viewed_impression\",\"instagram_ad_brand_profile\",\"instagram_ad_segment_impression\",\"instagram_ad_segment_sub_impression\",\"instagram_organic_impression\",\"instagram_ad_vpvd_imp\",\"instagram_ad_sponsored_label\"]"
+                    "value": ""
                 },
                 "regular_background_max_delay_for_batch_ms": {
-                    "value": 14400000
+                    "value": 600000
                 },
                 "use_receiver_for_highpri_alarm": {
                     "value": true
@@ -1084,13 +1084,13 @@
                     "value": ""
                 },
                 "highpri_foreground_max_delay_for_single_event_ms": {
-                    "value": 0
+                    "value": 1000
                 },
                 "latency_window_multiplier": {
                     "value": 2
                 },
                 "regular_background_max_delay_for_single_event_ms": {
-                    "value": 14400000
+                    "value": 600000
                 },
                 "micro_batch_rt_exempt_latecy": {
                     "value": 0
@@ -1102,13 +1102,13 @@
                     "value": true
                 },
                 "highpri_foreground_min_delay_for_batch_ms": {
-                    "value": 0
+                    "value": 100
                 },
                 "regular_foreground_min_delay_for_single_event_ms": {
-                    "value": 900000
+                    "value": 300000
                 },
                 "highpri_foreground_min_delay_for_single_event_ms": {
-                    "value": 0
+                    "value": 100
                 },
                 "regular_upload_delay": {
                     "value": -1
@@ -1123,7 +1123,7 @@
                     "value": 1
                 },
                 "regular_background_min_delay_for_batch_ms": {
-                    "value": 7200000
+                    "value": 300000
                 },
                 "mb_latency_exempt_list": {
                     "value": ""
@@ -1138,7 +1138,7 @@
                     "value": "{\"realtime_event_latencies\": {\"navigation\":-2, \"app_state\":-2, \"timespent_bit_array\":-2,\"instagram_organic_impression\":-2}, \"non_realtime_event_latencies\": {\"navigation\":120000, \"app_state\":120000, \"timespent_bit_array\":120000,\"instagram_organic_impression\":120000,\"instagram_organic_vpvd_imp\":120000,\"instagram_organic_carousel_impression\":120000,\"streaming_sdk_event\":120000,\"streaming_sdk_session_summary\":120000,\"streaming_sdk_metadata\":120000}}"
                 },
                 "regular_foreground_max_delay_for_single_event_ms": {
-                    "value": 2700000
+                    "value": 600000
                 },
                 "highpri_foreground_hard_max_events_per_batch": {
                     "value": 50
@@ -1147,7 +1147,7 @@
                     "value": 5000
                 },
                 "use_interaction_latch": {
-                    "value": true
+                    "value": false
                 },
                 "video_latch_timeout": {
                     "value": 5000
