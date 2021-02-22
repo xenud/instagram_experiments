@@ -1135,7 +1135,7 @@
                     "value": 60
                 },
                 "event_latency_override": {
-                    "value": "{\"realtime_event_latencies\": {\"navigation\":-2, \"app_state\":-2, \"timespent_bit_array\":-2,\"instagram_organic_impression\":-2}, \"non_realtime_event_latencies\": {\"navigation\":120000, \"app_state\":120000, \"timespent_bit_array\":120000,\"instagram_organic_impression\":120000,\"instagram_organic_vpvd_imp\":120000,\"instagram_organic_carousel_impression\":120000,\"streaming_sdk_event\":120000,\"streaming_sdk_session_summary\":120000,\"streaming_sdk_metadata\":120000}}"
+                    "value": "{\"realtime_event_latencies\": {\"navigation\":0, \"app_state\":0, \"time_spent_bit_array\":0,\"instagram_organic_impression\":-2}, \"non_realtime_event_latencies\": {\"navigation\":0, \"app_state\":0, \"time_spent_bit_array\":0,\"instagram_organic_impression\":120000,\"instagram_organic_vpvd_imp\":120000,\"instagram_organic_carousel_impression\":120000,\"streaming_sdk_event\":120000,\"streaming_sdk_session_summary\":120000,\"streaming_sdk_metadata\":120000}}"
                 },
                 "regular_foreground_max_delay_for_single_event_ms": {
                     "value": 600000
