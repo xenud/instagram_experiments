@@ -4807,16 +4807,6 @@
                 }
             }
         },
-        "ig_android_explore_motion_transitions": {
-            "params": {
-                "push_duration": {
-                    "value": 300
-                },
-                "pop_duration": {
-                    "value": 300
-                }
-            }
-        },
         "ig_android_explore_mvvm": {
             "params": {
                 "is_enabled": {
@@ -6899,7 +6889,7 @@
                 "tcp_fallback_quic_backoff_interval_ms": {
                     "value": 0
                 },
-                "tcp_fallback_keep_quic_conn_on_probe_reponse": {
+                "tcp_fallback_keep_quic_conn_on_probe_response": {
                     "value": false
                 }
             }
