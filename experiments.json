@@ -52,19 +52,6 @@
                 }
             }
         },
-        "ig_android_ads_report_revamp": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                },
-                "is_enabled_for_story_ad": {
-                    "value": false
-                },
-                "should_show_about_this_account": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_ads_seen_state_explore": {
             "params": {
                 "is_enabled": {
