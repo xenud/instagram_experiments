@@ -6898,6 +6898,9 @@
                 },
                 "tcp_fallback_quic_backoff_interval_ms": {
                     "value": 0
+                },
+                "tcp_fallback_keep_quic_conn_on_probe_reponse": {
+                    "value": false
                 }
             }
         },
