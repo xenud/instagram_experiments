@@ -692,6 +692,9 @@
                 },
                 "sn_negligible_image_size_difference": {
                     "value": 5
+                },
+                "sn_cards_prefetch_limit": {
+                    "value": 1
                 }
             }
         },
