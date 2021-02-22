@@ -695,6 +695,9 @@
                 },
                 "sn_cards_prefetch_limit": {
                     "value": 1
+                },
+                "sn_prefetch_after_opt_in_index": {
+                    "value": true
                 }
             }
         },
