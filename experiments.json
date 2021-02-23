@@ -11856,9 +11856,6 @@
                 },
                 "account_settings_enable_fundraiser_row": {
                     "value": true
-                },
-                "feed_composer_add_a_fundraiser_dialog_enabled": {
-                    "value": false
                 }
             }
         },
