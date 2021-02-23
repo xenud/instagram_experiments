@@ -11835,7 +11835,7 @@
                     "value": true
                 },
                 "feed_composer_show_in_review_alert": {
-                    "value": true
+                    "value": false
                 },
                 "account_settings_enable_fundraiser_row": {
                     "value": true
