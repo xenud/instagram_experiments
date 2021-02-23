@@ -1186,6 +1186,9 @@
                 },
                 "event_flush_timeout": {
                     "value": 15000
+                },
+                "use_jobs": {
+                    "value": true
                 }
             }
         },
@@ -4721,15 +4724,6 @@
                 "uplevel_save": {
                     "value": false
                 },
-                "retain_progress": {
-                    "value": false
-                },
-                "darker_header_gradient": {
-                    "value": false
-                },
-                "tweak_bottom_gradient": {
-                    "value": false
-                },
                 "show_follow_button_border": {
                     "value": false
                 },
@@ -8064,7 +8058,7 @@
         "ig_user_pay_supporters_list_show_and_sort_by_amount": {
             "params": {
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
