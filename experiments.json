@@ -2961,6 +2961,13 @@
                 }
             }
         },
+        "ig_android_reels_in_blue": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_reels_music_marquee_memory_leak_fix": {
             "params": {
                 "enabled": {
