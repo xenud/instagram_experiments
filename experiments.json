@@ -4666,9 +4666,6 @@
                 "reels_feed_preview_indicator_never_collapses": {
                     "value": false
                 },
-                "replace_watch_all_with_dismiss": {
-                    "value": false
-                },
                 "is_upsell_audio_enabled": {
                     "value": false
                 },
