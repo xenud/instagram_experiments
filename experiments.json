@@ -10048,9 +10048,6 @@
         },
         "ig_android_stories_karaoke_captions": {
             "params": {
-                "is_enabled": {
-                    "value": false
-                },
                 "use_app_locale": {
                     "value": true,
                     "logging_id": [
