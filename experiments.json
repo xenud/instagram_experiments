@@ -7148,7 +7148,7 @@
                     "value": 1
                 },
                 "pulsar_sample_rate": {
-                    "value": 0
+                    "value": 1000
                 }
             }
         },
