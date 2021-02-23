@@ -1189,6 +1189,9 @@
                 },
                 "use_jobs": {
                     "value": true
+                },
+                "flush_with_high_pri_event": {
+                    "value": true
                 }
             }
         },
