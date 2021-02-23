@@ -6882,6 +6882,9 @@
                 },
                 "keep_quic_connection_on_probe_response": {
                     "value": false
+                },
+                "tcp_probe_delay_ms": {
+                    "value": 0
                 }
             }
         },
@@ -8368,6 +8371,16 @@
             "params": {
                 "is_enabled": {
                     "value": false
+                }
+            }
+        },
+        "ig_native_rooms_android_launcher": {
+            "params": {
+                "ig_native_rooms_android_master": {
+                    "value": false
+                },
+                "should_redirect_to_messenger": {
+                    "value": true
                 }
             }
         },
