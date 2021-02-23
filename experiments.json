@@ -7032,19 +7032,31 @@
                     "value": 10
                 },
                 "ack_interval_before_thresh": {
-                    "value": 2
+                    "value": 10,
+                    "logging_id": [
+                        "267742961389005"
+                    ]
                 },
                 "use_async_liger": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "267742961389005"
+                    ]
                 },
                 "should_recv_batch": {
                     "value": true
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "267742961389005"
+                    ]
                 },
                 "ack_interval_after_thresh": {
-                    "value": 10
+                    "value": 10,
+                    "logging_id": [
+                        "267742961389005"
+                    ]
                 },
                 "ack_thresh": {
                     "value": 100
