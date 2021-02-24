@@ -2856,7 +2856,7 @@
         "ig_android_promote_from_sharesheet": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
