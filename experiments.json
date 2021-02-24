@@ -1855,6 +1855,13 @@
                 }
             }
         },
+        "ig_reels_media_insights": {
+            "params": {
+                "enabled_with_gk": {
+                    "value": false
+                }
+            }
+        },
         "ig_smb_support_sticker_creation_promotion": {
             "params": {
                 "is_eligible_for_promotion_tooltip": {
