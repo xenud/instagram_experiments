@@ -9563,10 +9563,7 @@
         "ig_shopping_product_cross_tagging_story_swipe_up_to_shop": {
             "params": {
                 "enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "2393512767618351"
-                    ]
+                    "value": false
                 }
             }
         },
