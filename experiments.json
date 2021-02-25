@@ -6721,52 +6721,6 @@
                 }
             }
         },
-        "ig_android_low_end_launcher": {
-            "params": {
-                "enable_story_bitrate_test": {
-                    "value": true,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2009_bitrate_bps": {
-                    "value": 1750000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2010_bitrate_bps": {
-                    "value": 2000000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2011_bitrate_bps": {
-                    "value": 2250000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2012_bitrate_bps": {
-                    "value": 2500000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2013_bitrate_bps": {
-                    "value": 2750000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                },
-                "yc2014_bitrate_bps": {
-                    "value": 3000000,
-                    "logging_id": [
-                        "428643131778261"
-                    ]
-                }
-            }
-        },
         "ig_android_low_ram_disk_optimizations_h2_2020": {
             "params": {
                 "swallow_feed_cache_errors": {
