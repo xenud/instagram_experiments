@@ -1192,6 +1192,9 @@
                 },
                 "flush_with_high_pri_event": {
                     "value": false
+                },
+                "use_catch_up_scheduling": {
+                    "value": false
                 }
             }
         },
