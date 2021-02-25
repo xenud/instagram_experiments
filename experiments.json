@@ -10111,6 +10111,20 @@
                 }
             }
         },
+        "ig_android_stories_qr_skintone_selector": {
+            "params": {
+                "is_enabled": {
+                    "logging_id": [
+                        "746816309574543"
+                    ]
+                },
+                "dark_to_light": {
+                    "logging_id": [
+                        "746816309574543"
+                    ]
+                }
+            }
+        },
         "ig_android_stories_stories_access": {
             "params": {
                 "show_seen_reels_on_entrypoint_activity_feed": {
