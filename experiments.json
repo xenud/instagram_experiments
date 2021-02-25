@@ -10426,10 +10426,7 @@
         "ig_threads_android_camera_badge": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_threads_android_camera_badge_gk$public$control$4$1726291C"
-                    ]
+                    "value": true
                 }
             }
         },
