@@ -7825,6 +7825,9 @@
                 "ufi_redesign_enabled": {
                     "value": false
                 },
+                "aspect_ratio_redesign_enabled": {
+                    "value": false
+                },
                 "participants_debug_limit": {
                     "value": 2
                 },
@@ -7841,6 +7844,9 @@
                     "value": 9
                 },
                 "is_aspect_ratio_16_9": {
+                    "value": false
+                },
+                "is_viewer_redesign_v2_combined_test_enabled": {
                     "value": false
                 },
                 "guest_version_gating_for_experiments": {
