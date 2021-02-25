@@ -1195,6 +1195,9 @@
                 },
                 "use_catch_up_scheduling": {
                     "value": false
+                },
+                "use_cached_logger": {
+                    "value": false
                 }
             }
         },
