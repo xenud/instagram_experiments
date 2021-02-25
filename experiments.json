@@ -8272,6 +8272,13 @@
                 }
             }
         },
+        "ig_app_speed_ig_executor": {
+            "params": {
+                "enable_ig_executor_v2": {
+                    "value": false
+                }
+            }
+        },
         "ig_bd_pd_launcher": {
             "params": {
                 "non_biometric_signal_time_epsilon": {
