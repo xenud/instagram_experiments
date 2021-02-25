@@ -4988,7 +4988,7 @@
         "ig_android_feed_request_qpl_levers": {
             "params": {
                 "seconds_to_delay": {
-                    "value": 60
+                    "value": 30
                 },
                 "is_timeout_enabled": {
                     "value": false
