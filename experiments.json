@@ -8663,6 +8663,9 @@
             "params": {
                 "is_enabled": {
                     "value": true
+                },
+                "group_calls_enabled": {
+                    "value": false
                 }
             }
         },
