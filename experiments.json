@@ -1185,13 +1185,13 @@
                     "value": false
                 },
                 "event_flush_timeout": {
-                    "value": 15000
+                    "value": 500
                 },
                 "use_jobs": {
-                    "value": true
+                    "value": false
                 },
                 "flush_with_high_pri_event": {
-                    "value": true
+                    "value": false
                 }
             }
         },
