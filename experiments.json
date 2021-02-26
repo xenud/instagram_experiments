@@ -1089,13 +1089,13 @@
                     "value": true
                 },
                 "highpri_foreground_min_delay_for_batch_ms": {
-                    "value": 100
+                    "value": 500
                 },
                 "regular_foreground_min_delay_for_single_event_ms": {
                     "value": 300000
                 },
                 "highpri_foreground_min_delay_for_single_event_ms": {
-                    "value": 100
+                    "value": 500
                 },
                 "regular_upload_delay": {
                     "value": -1
