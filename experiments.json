@@ -572,6 +572,9 @@
                 },
                 "reinvalidate_on_entry": {
                     "value": false
+                },
+                "reinvalidate_on_entry_v2": {
+                    "value": false
                 }
             }
         },
