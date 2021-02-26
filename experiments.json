@@ -4484,10 +4484,10 @@
         "igd_android_mwb_show_privacy_complaint_frx": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "learn_more_url": {
-                    "value": ""
+                    "value": "https://help.instagram.com/568100683269916"
                 }
             }
         },
