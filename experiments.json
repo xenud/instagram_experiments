@@ -193,7 +193,7 @@
         "ig_android_feed_ad_ata": {
             "params": {
                 "enable_android_feed_ad_ata": {
-                    "value": false
+                    "value": true
                 }
             }
         },
