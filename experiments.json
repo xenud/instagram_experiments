@@ -1161,7 +1161,7 @@
                     "value": 6
                 },
                 "is_legacy_upload_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "log_and_release_in_background": {
                     "value": true
