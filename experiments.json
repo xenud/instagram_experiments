@@ -8773,6 +8773,58 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_audiodeviceconfig": {
+            "params": {
+                "r11_fix_restart_retries": {
+                    "value": -1
+                },
+                "interruption_restart": {
+                    "value": -1
+                },
+                "r11_allow_fbsysmgr_audio_reset": {
+                    "value": -1
+                },
+                "restart_max_attempts": {
+                    "value": -1
+                },
+                "enable_ls_audio_restart": {
+                    "value": -1
+                },
+                "enable_audio_restart": {
+                    "value": -1
+                },
+                "enable_session_configuration_thru_rtc": {
+                    "value": -1
+                },
+                "r20_fix_restart_retries": {
+                    "value": -1
+                },
+                "stall_recovery_postdelay_enabled": {
+                    "value": -1
+                },
+                "reinit_interval_ms": {
+                    "value": -1
+                },
+                "app_layer_restart": {
+                    "value": -1
+                },
+                "reinit_attempts": {
+                    "value": -1
+                },
+                "signal_audio_init_failures": {
+                    "value": -1
+                },
+                "restart_retry_delay_ms": {
+                    "value": -1
+                },
+                "ignore_fbsystemaudiosessionmanager": {
+                    "value": -1
+                },
+                "stall_recovery_no_template": {
+                    "value": 0
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_audioprocessingconfig": {
             "params": {
                 "agc_digital_compression_gain": {
