@@ -9688,7 +9688,7 @@
         "ig_shopping_tail_load_logging": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
