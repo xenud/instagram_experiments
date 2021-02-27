@@ -7149,6 +7149,9 @@
                 },
                 "pulsar_sample_rate": {
                     "value": 1000
+                },
+                "e2e_logging_client_enabled": {
+                    "value": true
                 }
             }
         },
