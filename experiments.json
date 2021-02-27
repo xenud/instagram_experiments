@@ -7304,6 +7304,9 @@
                 },
                 "is_surface_enabled": {
                     "value": false
+                },
+                "is_data_core_navigation_enabled": {
+                    "value": false
                 }
             }
         },
