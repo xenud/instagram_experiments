@@ -6654,13 +6654,6 @@
                 }
             }
         },
-        "ig_android_launcher_story_reel_server_prefetch_name": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_launcher_video_cache_fix_dup_requests": {
             "params": {
                 "use_read_write_block_without_timeout": {
