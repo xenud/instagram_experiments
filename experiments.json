@@ -2597,10 +2597,7 @@
         "ig_camera_android_save_photo_metadata": {
             "params": {
                 "save_metadata": {
-                    "value": true,
-                    "logging_id": [
-                        "1666440110199961"
-                    ]
+                    "value": true
                 }
             }
         },
