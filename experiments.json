@@ -6654,16 +6654,6 @@
                 }
             }
         },
-        "ig_android_launcher_story_graph_visible_fix": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                },
-                "fix_graph": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_launcher_story_reel_server_prefetch_name": {
             "params": {
                 "is_enabled": {
