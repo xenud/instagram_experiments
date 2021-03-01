@@ -6522,13 +6522,22 @@
         "ig_android_launcher_explore_prefetch_api_framework_migration": {
             "params": {
                 "include_is_prefetch": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                    ]
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false,
+                    "logging_id": [
+                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                    ]
                 },
                 "cache_expire_in_hr": {
-                    "value": 24
+                    "value": 12,
+                    "logging_id": [
+                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                    ]
                 }
             }
         },
@@ -8210,6 +8219,9 @@
         "ig_android_tab_action_migration": {
             "params": {
                 "is_enabled": {
+                    "value": false
+                },
+                "refactor_profile_listener": {
                     "value": false
                 }
             }
