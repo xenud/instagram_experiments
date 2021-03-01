@@ -8210,6 +8210,30 @@
             "params": {
                 "enable_ig_executor_v2": {
                     "value": false
+                },
+                "enable_stuck_thread_monitor": {
+                    "value": true
+                },
+                "enable_stuck_startup_monitor": {
+                    "value": false
+                },
+                "enable_defer_after_startup_if_possible": {
+                    "value": false
+                },
+                "skip_hop_before_network_pool": {
+                    "value": true
+                },
+                "memory_loop_frequency_ms": {
+                    "value": 30000
+                },
+                "task_and_thread_manager_spec": {
+                    "value": "1:3,2,1,1,1;9,10,11,12,19"
+                },
+                "network_pool_process_thread_priority": {
+                    "value": 9
+                },
+                "qpl_pre_sample_rate": {
+                    "value": 1000
                 }
             }
         },
