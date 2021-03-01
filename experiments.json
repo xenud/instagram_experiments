@@ -153,16 +153,10 @@
         "ig_android_autofill_global_v2": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1603012433202198"
-                    ]
+                    "value": true
                 },
                 "is_analytics_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1603012433202198"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -242,22 +236,13 @@
         "ig_android_iab_autofill_us": {
             "params": {
                 "is_analytics_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "1603012433202198"
-                    ]
+                    "value": false
                 },
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "1603012433202198"
-                    ]
+                    "value": false
                 },
                 "is_direct_js_injection_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1603012433202198"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -427,10 +412,7 @@
         "ig_android_pre_highlight_cta_color": {
             "params": {
                 "cta_pre_highlight_color_scheme": {
-                    "value": 2,
-                    "logging_id": [
-                        "326461611871627"
-                    ]
+                    "value": 2
                 }
             }
         },
@@ -2164,10 +2146,7 @@
         "ig_android_arengine_animation_async_load": {
             "params": {
                 "initial_load_async": {
-                    "value": false,
-                    "logging_id": [
-                        "3370584679644974"
-                    ]
+                    "value": false
                 }
             }
         },
