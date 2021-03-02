@@ -6545,6 +6545,22 @@
                 }
             }
         },
+        "ig_android_launcher_chaining_gcpu_opt": {
+            "params": {
+                "is_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "731765250861638"
+                    ]
+                },
+                "look_a_head_count": {
+                    "value": 4,
+                    "logging_id": [
+                        "731765250861638"
+                    ]
+                }
+            }
+        },
         "ig_android_launcher_explore_prefetch_api_framework_migration": {
             "params": {
                 "include_is_prefetch": {
