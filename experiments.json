@@ -556,7 +556,7 @@
                     "value": false
                 },
                 "reinvalidate_on_entry_v2": {
-                    "value": false
+                    "value": true
                 }
             }
         },
