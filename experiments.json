@@ -911,6 +911,9 @@
                 },
                 "is_smart_caption_caption_optimization_enabled": {
                     "value": false
+                },
+                "glados_carousel_templates": {
+                    "value": "control"
                 }
             }
         },
