@@ -2443,6 +2443,13 @@
                 }
             }
         },
+        "ig_camera_android_effects_schema_migration": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_camera_android_filter_optmizations_launcher": {
             "params": {
                 "is_skip_gradient_filter_opt_enabled": {
