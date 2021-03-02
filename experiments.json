@@ -8035,6 +8035,9 @@
                 },
                 "is_multiple_payout_method_enabled": {
                     "value": false
+                },
+                "is_notifications_enabled": {
+                    "value": false
                 }
             }
         },
