@@ -6625,10 +6625,7 @@
         "ig_android_launcher_navigation_cancellation_video_prefetch_fix": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "159992008987882"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -10279,14 +10276,10 @@
         "ig_android_stories_qr_skintone_selector": {
             "params": {
                 "is_enabled": {
-                    "logging_id": [
-                        "746816309574543"
-                    ]
+                    "value": true
                 },
                 "dark_to_light": {
-                    "logging_id": [
-                        "746816309574543"
-                    ]
+                    "value": false
                 }
             }
         },
