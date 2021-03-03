@@ -153,10 +153,16 @@
         "ig_android_autofill_global_v2": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "1603012433202198"
+                    ]
                 },
                 "is_analytics_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "1603012433202198"
+                    ]
                 }
             }
         },
@@ -236,13 +242,22 @@
         "ig_android_iab_autofill_us": {
             "params": {
                 "is_analytics_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "1603012433202198"
+                    ]
                 },
                 "is_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "1603012433202198"
+                    ]
                 },
                 "is_direct_js_injection_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "1603012433202198"
+                    ]
                 }
             }
         },
