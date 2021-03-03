@@ -8695,7 +8695,7 @@
         "ig_android_vc_call_sounds": {
             "params": {
                 "incall_sounds_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -8816,6 +8816,9 @@
                     "value": 0.5
                 },
                 "enable_peer_connection_summary": {
+                    "value": true
+                },
+                "use_http_vc_request_type": {
                     "value": true
                 }
             }
