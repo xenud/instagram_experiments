@@ -10986,7 +10986,7 @@
                     "value": true
                 },
                 "cf_count_threshold": {
-                    "value": 10
+                    "value": 11
                 }
             }
         },
