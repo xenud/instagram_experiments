@@ -3194,6 +3194,12 @@
                 },
                 "android_video_pool_update_enabled": {
                     "value": true
+                },
+                "account_setting_cache_ttl": {
+                    "value": 43200000
+                },
+                "remixable_media_local_update_enabled": {
+                    "value": true
                 }
             }
         },
