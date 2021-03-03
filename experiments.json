@@ -7511,6 +7511,13 @@
                 }
             }
         },
+        "ig_android_map_categories": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_qr_scan_urls": {
             "params": {
                 "is_enabled": {
