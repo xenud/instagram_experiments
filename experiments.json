@@ -688,6 +688,9 @@
                 },
                 "sn_prefetch_after_opt_in_index": {
                     "value": true
+                },
+                "sn_aggressive_cache_removal_enabled": {
+                    "value": true
                 }
             }
         },
