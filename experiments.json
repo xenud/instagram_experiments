@@ -8054,6 +8054,9 @@
                 },
                 "is_notifications_enabled": {
                     "value": false
+                },
+                "is_stepper_flow_enabled": {
+                    "value": false
                 }
             }
         },
