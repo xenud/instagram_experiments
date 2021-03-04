@@ -1646,7 +1646,7 @@
         "ig_android_political_restriction_dialog": {
             "params": {
                 "restriction_dialog_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
