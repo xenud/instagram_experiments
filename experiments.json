@@ -413,7 +413,7 @@
         "ig_android_political_ad_info_sheet": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
