@@ -10278,7 +10278,7 @@
         "ig_android_stories_qr_skintone_selector": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "dark_to_light": {
                     "value": false
