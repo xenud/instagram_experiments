@@ -8943,7 +8943,10 @@
                     "value": -1
                 },
                 "stall_recovery_no_template": {
-                    "value": 0
+                    "value": 0,
+                    "logging_id": [
+                        "GK$rtc_ios_ig_sradm_no_template$public$control$4$1770717C"
+                    ]
                 }
             }
         },
