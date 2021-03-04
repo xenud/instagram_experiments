@@ -691,6 +691,9 @@
                 },
                 "sn_aggressive_cache_removal_enabled": {
                     "value": true
+                },
+                "sn_interactive_models_cache_enabled": {
+                    "value": false
                 }
             }
         },
