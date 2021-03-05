@@ -8775,6 +8775,9 @@
                 },
                 "start_regular_call": {
                     "value": false
+                },
+                "show_drop_in_nux": {
+                    "value": false
                 }
             }
         },
