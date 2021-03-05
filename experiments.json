@@ -2143,10 +2143,7 @@
         "android_ard_ig_join_are_logging": {
             "params": {
                 "should_end_at_fetch_success": {
-                    "value": true,
-                    "logging_id": [
-                        "481658353200837"
-                    ]
+                    "value": true
                 }
             }
         },
