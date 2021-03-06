@@ -9214,6 +9214,18 @@
                 },
                 "only_show_server_keywords": {
                     "value": false
+                },
+                "enable_ig_keyword_bootstrap_fallback": {
+                    "value": false
+                },
+                "enable_ig_keyword_bootstrap_past_engagements": {
+                    "value": false
+                },
+                "ig_keyword_bootstrap_fallback_laser": {
+                    "value": "ig_keywords_bootstrap_fallback"
+                },
+                "ig_keyword_bootstrap_past_engagements_laser": {
+                    "value": "ig_keywords_bootstrap_past_engagements"
                 }
             }
         },
