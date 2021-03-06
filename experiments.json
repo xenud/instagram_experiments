@@ -4073,6 +4073,13 @@
                 }
             }
         },
+        "ig_android_rooms_tab_v1": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_share_sheet_facebook_friends_tooltip": {
             "params": {
                 "experiment_show_count": {
