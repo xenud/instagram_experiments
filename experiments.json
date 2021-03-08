@@ -1226,6 +1226,9 @@
                 },
                 "use_cached_logger": {
                     "value": false
+                },
+                "is_alarm_manager_enabled": {
+                    "value": true
                 }
             }
         },
