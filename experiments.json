@@ -694,6 +694,12 @@
                 },
                 "sn_interactive_models_cache_enabled": {
                     "value": false
+                },
+                "sn_carousel_window_items_right": {
+                    "value": 0
+                },
+                "sn_carousel_window_items_left": {
+                    "value": 0
                 }
             }
         },
