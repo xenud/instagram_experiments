@@ -4202,19 +4202,6 @@
                 }
             }
         },
-        "ig_android_thread_view_rearchitect": {
-            "params": {
-                "send_animation_enabled": {
-                    "value": false
-                },
-                "sending_indicator_dot_enabled": {
-                    "value": false
-                },
-                "is_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_thread_warning_reported_user": {
             "params": {
                 "is_enabled": {
