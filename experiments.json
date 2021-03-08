@@ -4920,16 +4920,16 @@
         "ig_android_guides_creation": {
             "params": {
                 "places_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "products_enabled": {
                     "value": true
                 },
                 "is_drafts_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "allow_old_one_item_guides": {
                     "value": true
@@ -12009,16 +12009,16 @@
         "ig_fundraiser_feed_creation": {
             "params": {
                 "feed_composer_enable_fundraiser_row": {
-                    "value": true
+                    "value": false
                 },
                 "feed_refresh_check_fundraiser_deletion": {
-                    "value": true
+                    "value": false
                 },
                 "feed_composer_show_in_review_alert": {
                     "value": false
                 },
                 "account_settings_enable_fundraiser_row": {
-                    "value": true
+                    "value": false
                 }
             }
         },
