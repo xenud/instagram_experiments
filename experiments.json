@@ -5947,6 +5947,9 @@
                 },
                 "memory_timeline_deltas_enabled": {
                     "value": false
+                },
+                "memory_timeline_to_app_state_logger_enabled": {
+                    "value": false
                 }
             }
         },
