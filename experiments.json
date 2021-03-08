@@ -4733,10 +4733,16 @@
                     "value": false
                 },
                 "num_loops_to_show_upsell_overlay": {
-                    "value": -1
+                    "value": -1,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "prefetch_reels_feed": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "reels_feed_preview_indicator_never_collapses": {
                     "value": false
@@ -4745,10 +4751,16 @@
                     "value": false
                 },
                 "feed_video_remaining_time_before_prefetch_ms": {
-                    "value": -1
+                    "value": -1,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "is_autoscroll_on_cta_click_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "show_swipe_up_nux_immediately": {
                     "value": false
@@ -8184,7 +8196,10 @@
         "ig_android_clips_viewer_audio": {
             "params": {
                 "audio_always_on": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
@@ -8222,20 +8237,32 @@
         "ig_android_peek_controller_refactor": {
             "params": {
                 "delay_inflate_view": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
         "ig_android_profile_subtab_order": {
             "params": {
                 "is_igtv_second_tab": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "delay_clips_fetch": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "skip_zero_scroll": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
@@ -8249,13 +8276,22 @@
         "ig_android_reels_peek": {
             "params": {
                 "is_enabled_audio": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "is_enabled_effects": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "is_enabled_profile": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
