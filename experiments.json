@@ -11272,6 +11272,16 @@
                 }
             }
         },
+        "ig_android_ingestion_videolite_transcoder_integration": {
+            "params": {
+                "enable_videolite_transcoder": {
+                    "value": true
+                },
+                "peek_transcode_type_additional_support": {
+                    "value": "progressive"
+                }
+            }
+        },
         "ig_android_interleave_audio": {
             "params": {
                 "audio_interleave": {
