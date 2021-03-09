@@ -5940,6 +5940,9 @@
                 },
                 "memory_timeline_to_app_state_logger_enabled": {
                     "value": false
+                },
+                "memory_timeline_to_acra_enabled": {
+                    "value": false
                 }
             }
         },
