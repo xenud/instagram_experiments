@@ -8986,6 +8986,13 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_genericframedescriptorconfig": {
+            "params": {
+                "enabled": {
+                    "value": -1
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_h265codecconfig": {
             "params": {
                 "codec_enabled_sfu": {
