@@ -578,6 +578,9 @@
                 },
                 "score_threshold": {
                     "value": 0.0
+                },
+                "sync_sponsored_info": {
+                    "value": false
                 }
             }
         },
@@ -3257,6 +3260,9 @@
         "direct_interop_upsell_experimentation": {
             "params": {
                 "enable_profile_side_tray_upsell_android": {
+                    "value": true
+                },
+                "enable_thread_details_chat_themes_upsell_android": {
                     "value": true
                 },
                 "android_enable_proactive_selfie_sticker_qp": {
