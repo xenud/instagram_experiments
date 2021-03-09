@@ -11278,13 +11278,13 @@
         "ig_android_ingestion_videolite_transcoder_integration": {
             "params": {
                 "enable_videolite_transcoder": {
-                    "value": true
+                    "value": false
+                },
+                "peek_enable_time_based_ssim_compare": {
+                    "value": false
                 },
                 "peek_transcode_type_additional_support": {
-                    "value": "progressive"
-                },
-                "peek_enable_android_frame_retriever_ssim_compare": {
-                    "value": true
+                    "value": "none"
                 }
             }
         },
