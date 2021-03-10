@@ -6496,6 +6496,9 @@
                 },
                 "cache_keys_similarity_memory_cache_resized_image": {
                     "value": false
+                },
+                "ignore_all_disk_similar_keys": {
+                    "value": false
                 }
             }
         },
