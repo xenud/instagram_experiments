@@ -10625,9 +10625,6 @@
         },
         "ig_threads_android_growth_nux": {
             "params": {
-                "enabled": {
-                    "value": false
-                },
                 "min_cf_threshold": {
                     "value": 3000
                 }
