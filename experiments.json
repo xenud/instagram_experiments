@@ -10461,28 +10461,6 @@
                 }
             }
         },
-        "ig_imbe_config": {
-            "params": {
-                "should_skip_local_cache_check": {
-                    "value": false
-                },
-                "ig_reader_survey_enabled": {
-                    "value": false
-                },
-                "postcapture_disclosure_app_version_gk": {
-                    "value": true
-                },
-                "postcapture_disclosure_enabled": {
-                    "value": false
-                },
-                "native_funnel_logging_enabled": {
-                    "value": true
-                },
-                "qpl_funnel_logging_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_in_feed_unit_viewer_exit_test": {
             "params": {
                 "force_scroll_to_first_position": {
