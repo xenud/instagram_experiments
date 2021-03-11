@@ -4795,7 +4795,10 @@
         "ig_android_clips_viewer_redesign": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T~GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 },
                 "uplevel_save": {
                     "value": false
