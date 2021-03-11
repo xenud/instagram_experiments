@@ -1222,6 +1222,9 @@
                 },
                 "is_alarm_manager_enabled": {
                     "value": true
+                },
+                "is_alarm_manager_upload_enabled": {
+                    "value": false
                 }
             }
         },
@@ -7048,7 +7051,10 @@
                     "value": false
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "GK$ig_android_power_metrics$public$testing$4$1297803T"
+                    ]
                 }
             }
         },
