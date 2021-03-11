@@ -845,6 +845,13 @@
                 }
             }
         },
+        "ig_direct_product_picker_entrypoint": {
+            "params": {
+                "tooltip_max_show_count": {
+                    "value": 1
+                }
+            }
+        },
         "ig_explore_time_based_insertion": {
             "params": {
                 "enable_brand_safety_check": {
