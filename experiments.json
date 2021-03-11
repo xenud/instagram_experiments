@@ -1224,7 +1224,7 @@
                     "value": true
                 },
                 "is_alarm_manager_upload_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
