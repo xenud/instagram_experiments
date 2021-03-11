@@ -2761,6 +2761,12 @@
                 },
                 "is_enable_in_consumption": {
                     "value": true
+                },
+                "is_enabled_in_threads_app": {
+                    "value": true
+                },
+                "is_enabled_in_igtv_app": {
+                    "value": true
                 }
             }
         },
