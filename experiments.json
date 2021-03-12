@@ -2552,7 +2552,10 @@
         "ig_camera_android_improved_stop_recording": {
             "params": {
                 "use_improved_stop_recording": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "GK$ig_reels_and_camera_product_holdout_h1_2021_gk$launch_ab_test$testing$4$1706122T"
+                    ]
                 }
             }
         },
