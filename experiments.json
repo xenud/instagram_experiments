@@ -7125,10 +7125,10 @@
                     "value": 10
                 },
                 "ack_interval_before_thresh": {
-                    "value": 10
+                    "value": 2
                 },
                 "use_async_liger": {
-                    "value": true
+                    "value": false
                 },
                 "should_recv_batch": {
                     "value": true
