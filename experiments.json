@@ -2549,6 +2549,13 @@
                 }
             }
         },
+        "ig_camera_android_improved_stop_recording": {
+            "params": {
+                "use_improved_stop_recording": {
+                    "value": false
+                }
+            }
+        },
         "ig_camera_android_mini_gallery": {
             "params": {
                 "categories_cache_hours": {
