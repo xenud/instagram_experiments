@@ -9893,13 +9893,6 @@
                 }
             }
         },
-        "ig_shops_navbar_trust_signals": {
-            "params": {
-                "enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_video_in_shop_tab": {
             "params": {
                 "is_enabled": {
