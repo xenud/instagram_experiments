@@ -2124,10 +2124,7 @@
         "ig_smb_android_value_props_disable_button_launcher": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "740354953543903"
-                    ]
+                    "value": true
                 }
             }
         },
