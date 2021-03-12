@@ -11131,6 +11131,22 @@
                 }
             }
         },
+        "ig_android_async_release_video_surface_launcher": {
+            "params": {
+                "release": {
+                    "value": false,
+                    "logging_id": [
+                        "3264819183786238"
+                    ]
+                },
+                "release_unbind": {
+                    "value": true,
+                    "logging_id": [
+                        "3264819183786238"
+                    ]
+                }
+            }
+        },
         "ig_android_carousel_scroll_issue_fix_launcher": {
             "params": {
                 "enabled": {
