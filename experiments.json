@@ -6988,6 +6988,9 @@
                 },
                 "tcp_probe_delay_ms": {
                     "value": 0
+                },
+                "receive_batch_size": {
+                    "value": 0
                 }
             }
         },
