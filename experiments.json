@@ -9601,22 +9601,13 @@
         "ig_shopping_android_pdp_load_success_usl": {
             "params": {
                 "should_log_load_fields": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
+                    "value": false
                 },
                 "should_log_discount_fields": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
+                    "value": false
                 },
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
+                    "value": false
                 }
             }
         },
