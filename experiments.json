@@ -2199,13 +2199,6 @@
                 }
             }
         },
-        "ig_android_arengine_animation_async_load": {
-            "params": {
-                "initial_load_async": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_arengine_assetload_pathcache2": {
             "params": {
                 "use_path_cache": {
