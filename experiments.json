@@ -11127,16 +11127,10 @@
         "ig_android_async_release_video_surface_launcher": {
             "params": {
                 "release": {
-                    "value": false,
-                    "logging_id": [
-                        "3264819183786238"
-                    ]
+                    "value": false
                 },
                 "release_unbind": {
-                    "value": true,
-                    "logging_id": [
-                        "3264819183786238"
-                    ]
+                    "value": true
                 }
             }
         },
