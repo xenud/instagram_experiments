@@ -8171,6 +8171,13 @@
                 }
             }
         },
+        "ig_user_pay_supporter_info_in_pinned_comments": {
+            "params": {
+                "creator_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_user_pay_supporters_list_show_and_sort_by_amount": {
             "params": {
                 "enabled": {
