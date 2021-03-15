@@ -9019,6 +9019,16 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_e2eeconfig": {
+            "params": {
+                "engine_type_p2p": {
+                    "value": -1
+                },
+                "engine_type_conference_call": {
+                    "value": -1
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_edgerayrsysconfig": {
             "params": {
                 "detect_default_apn": {
