@@ -8174,7 +8174,7 @@
         "ig_user_pay_supporter_info_in_pinned_comments": {
             "params": {
                 "creator_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -9022,10 +9022,10 @@
         "ig_vc_rsys_overlayconfig_e2eeconfig": {
             "params": {
                 "engine_type_p2p": {
-                    "value": -1
+                    "value": 2
                 },
                 "engine_type_conference_call": {
-                    "value": -1
+                    "value": 2
                 }
             }
         },
