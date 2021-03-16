@@ -9159,6 +9159,13 @@
                 }
             }
         },
+        "igvc_android_mqtt_ring": {
+            "params": {
+                "igvc_mqtt_ring": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_reels_save_music": {
             "params": {
                 "enabled": {
