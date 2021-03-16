@@ -9586,28 +9586,6 @@
                 }
             }
         },
-        "ig_shopping_android_pdp_load_success_usl": {
-            "params": {
-                "should_log_load_fields": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
-                },
-                "should_log_discount_fields": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
-                },
-                "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "319740552670514"
-                    ]
-                }
-            }
-        },
         "ig_shopping_android_pdp_media_prefetch": {
             "params": {
                 "is_product_tile_prefetch_enabled": {
