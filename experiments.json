@@ -581,6 +581,9 @@
                 },
                 "sync_sponsored_info": {
                     "value": false
+                },
+                "prefetch_once_between_sessions": {
+                    "value": false
                 }
             }
         },
