@@ -3018,22 +3018,6 @@
                 }
             }
         },
-        "ig_android_reels_download_with_music": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                },
-                "is_creation_download_with_music_enabled": {
-                    "value": true
-                },
-                "is_consumption_download_with_music_enabled": {
-                    "value": true
-                },
-                "should_disable_creation_download": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_reels_in_blue": {
             "params": {
                 "enabled": {
