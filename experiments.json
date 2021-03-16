@@ -2954,13 +2954,6 @@
                 }
             }
         },
-        "ig_android_reels_audio_page_sharing": {
-            "params": {
-                "enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_reels_auto_audio_attribution": {
             "params": {
                 "enabled": {
