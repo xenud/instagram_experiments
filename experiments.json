@@ -8112,6 +8112,9 @@
                 },
                 "enabled": {
                     "value": false
+                },
+                "is_transaction_history_enabled": {
+                    "value": false
                 }
             }
         },
