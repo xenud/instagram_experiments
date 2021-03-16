@@ -7667,10 +7667,7 @@
         "ig_android_live_archives": {
             "params": {
                 "enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "232486378454267"
-                    ]
+                    "value": true
                 }
             }
         },
