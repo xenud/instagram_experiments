@@ -9014,7 +9014,7 @@
         "ig_vc_rsys_overlayconfig_opusencoderconfig": {
             "params": {
                 "enable_dtx": {
-                    "value": -1
+                    "value": 1
                 },
                 "vbr": {
                     "value": -1
