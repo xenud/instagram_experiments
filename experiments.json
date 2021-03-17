@@ -2418,6 +2418,13 @@
                 }
             }
         },
+        "ig_android_use_ard_for_nametag_v2": {
+            "params": {
+                "use_ar_delivery": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_wolf_slam_for_warf_slam": {
             "params": {
                 "android_is_enabled": {
