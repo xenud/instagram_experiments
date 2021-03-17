@@ -2815,13 +2815,6 @@
                 }
             }
         },
-        "ig_cameracore_android_camera2_galaxy_s9": {
-            "params": {
-                "enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_reels_android_music_attr_update": {
             "params": {
                 "enabled": {
@@ -10661,7 +10654,7 @@
         "ig_threads_android_offset_cutout_top_on_keyboard_height": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
