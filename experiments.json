@@ -3011,6 +3011,9 @@
                 },
                 "is_postcap_legacy_editor_enabled": {
                     "value": false
+                },
+                "scrubber_resource_release_holdback": {
+                    "value": false
                 }
             }
         },
