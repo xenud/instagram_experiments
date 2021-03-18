@@ -11669,6 +11669,16 @@
                 }
             }
         },
+        "ig_recommend_this_reel": {
+            "params": {
+                "enabled": {
+                    "value": false
+                },
+                "show_categories": {
+                    "value": false
+                }
+            }
+        },
         "threadsapp_android_multicamera_recording": {
             "params": {
                 "camera_streaming": {
