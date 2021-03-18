@@ -1411,6 +1411,9 @@
             "params": {
                 "infer_source_module": {
                     "value": true
+                },
+                "bottom_sheet_fix": {
+                    "value": false
                 }
             }
         },
