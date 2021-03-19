@@ -3072,6 +3072,16 @@
                 }
             }
         },
+        "ig_android_stories_gallery_drafts": {
+            "params": {
+                "enabled": {
+                    "value": false
+                },
+                "consumption_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_stories_remixes": {
             "params": {
                 "blocked_decoders": {
