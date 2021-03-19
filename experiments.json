@@ -8716,13 +8716,6 @@
                 }
             }
         },
-        "ig_android_vc_audio_hangout": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_vc_call_expansion": {
             "params": {
                 "is_enabled": {
