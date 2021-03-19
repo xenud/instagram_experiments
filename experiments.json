@@ -584,6 +584,9 @@
                 },
                 "prefetch_once_between_sessions": {
                     "value": false
+                },
+                "ensure_fires_after_feed": {
+                    "value": false
                 }
             }
         },
