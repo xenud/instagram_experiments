@@ -6181,6 +6181,13 @@
                 }
             }
         },
+        "ig_android_critical_path_for_scroll_perf_2020h2": {
+            "params": {
+                "enable_for_banyan_sync": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_critical_path_manager": {
             "params": {
                 "enabled": {
