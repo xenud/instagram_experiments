@@ -7799,6 +7799,9 @@
             "params": {
                 "enable_capture_renderer": {
                     "value": false
+                },
+                "disable_on_camera2_only": {
+                    "value": true
                 }
             }
         },
