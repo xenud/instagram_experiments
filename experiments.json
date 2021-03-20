@@ -6709,6 +6709,16 @@
                 }
             }
         },
+        "ig_android_launcher_profile_prefetch_schedule_graph_fix": {
+            "params": {
+                "is_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "961694457907548"
+                    ]
+                }
+            }
+        },
         "ig_android_launcher_reel_launcher_live_warmup": {
             "params": {
                 "is_enabled": {
