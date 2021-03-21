@@ -4644,6 +4644,9 @@
                 },
                 "is_compatible": {
                     "value": true
+                },
+                "is_xac_groups_compatible": {
+                    "value": false
                 }
             }
         },
