@@ -11982,7 +11982,7 @@
         "ig_android_migrate_reporting_www_bloks_h1": {
             "params": {
                 "launched_content_types": {
-                    "value": "[1,2]"
+                    "value": "[1, 2]"
                 }
             }
         },
