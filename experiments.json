@@ -9260,31 +9260,55 @@
                     "value": false
                 },
                 "rank_keyword_bootstrap_by_score": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "enable_keyword_prefix_match": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "do_not_delay_keyword_bootstrap_matches": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "blend_server_and_bootstrap_keywords": {
                     "value": false
                 },
                 "only_show_server_keywords": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "enable_ig_keyword_bootstrap_fallback": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "enable_ig_keyword_bootstrap_past_engagements": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "ig_keyword_bootstrap_fallback_laser": {
-                    "value": "ig_keywords_bootstrap_fallback"
+                    "value": "ig_keywords_bootstrap_fallback",
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 },
                 "ig_keyword_bootstrap_past_engagements_laser": {
-                    "value": "ig_keywords_bootstrap_past_engagements"
+                    "value": "ig_keywords_bootstrap_past_engagements",
+                    "logging_id": [
+                        "1321337554901197"
+                    ]
                 }
             }
         },
