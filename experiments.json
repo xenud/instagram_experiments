@@ -8129,9 +8129,6 @@
                 "is_stepper_flow_enabled": {
                     "value": false
                 },
-                "is_pro_home_entry_point_enabled": {
-                    "value": false
-                },
                 "enabled": {
                     "value": false
                 },
