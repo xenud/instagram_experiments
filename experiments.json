@@ -11982,6 +11982,22 @@
                 }
             }
         },
+        "ig_android_multi_block_launcher": {
+            "params": {
+                "is_bottom_sheet_enabled": {
+                    "value": false
+                },
+                "is_multiblock_enabled": {
+                    "value": false
+                },
+                "is_single_block_on_top": {
+                    "value": false
+                },
+                "preselection": {
+                    "value": "none"
+                }
+            }
+        },
         "ig_android_new_privacy_setting_launcher": {
             "params": {
                 "is_enabled": {
