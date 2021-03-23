@@ -3534,9 +3534,6 @@
             "params": {
                 "redux_enabled": {
                     "value": false
-                },
-                "default_blended_inbox_enabled": {
-                    "value": false
                 }
             }
         },
