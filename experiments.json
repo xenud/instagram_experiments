@@ -8756,6 +8756,9 @@
             "params": {
                 "is_enabled": {
                     "value": false
+                },
+                "join_call_button_enabled": {
+                    "value": false
                 }
             }
         },
