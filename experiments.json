@@ -9731,6 +9731,16 @@
                 }
             }
         },
+        "ig_shopping_mention_ungating": {
+            "params": {
+                "is_enabled_for_bio": {
+                    "value": false
+                },
+                "is_enabled_for_media_caption": {
+                    "value": false
+                }
+            }
+        },
         "ig_shopping_mini_shop_seller_education": {
             "params": {
                 "megaphone_v2_enabled": {
