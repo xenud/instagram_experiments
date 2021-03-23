@@ -5053,7 +5053,7 @@
                     "value": 30
                 },
                 "is_timeout_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "should_include_request_and_session_id": {
                     "value": false
@@ -9260,13 +9260,13 @@
                     "value": false
                 },
                 "rank_keyword_bootstrap_by_score": {
-                    "value": true
+                    "value": false
                 },
                 "enable_keyword_prefix_match": {
-                    "value": true
+                    "value": false
                 },
                 "do_not_delay_keyword_bootstrap_matches": {
-                    "value": true
+                    "value": false
                 },
                 "blend_server_and_bootstrap_keywords": {
                     "value": false
@@ -9278,7 +9278,7 @@
                     "value": false
                 },
                 "enable_ig_keyword_bootstrap_past_engagements": {
-                    "value": true
+                    "value": false
                 },
                 "ig_keyword_bootstrap_fallback_laser": {
                     "value": "ig_keywords_bootstrap_fallback"
