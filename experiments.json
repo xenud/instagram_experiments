@@ -3227,6 +3227,9 @@
                 },
                 "remixable_media_local_update_enabled": {
                     "value": true
+                },
+                "ios_sticker_timeline_sync_enabled": {
+                    "value": true
                 }
             }
         },
