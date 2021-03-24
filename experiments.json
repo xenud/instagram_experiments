@@ -10349,6 +10349,13 @@
                 }
             }
         },
+        "ig_android_stories_sticker_tray_rv_migration": {
+            "params": {
+                "is_enabled_search": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_stories_stories_access": {
             "params": {
                 "show_seen_reels_on_entrypoint_activity_feed": {
