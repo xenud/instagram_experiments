@@ -5462,6 +5462,16 @@
                 }
             }
         },
+        "ig_android_consent_flow_ci_on_dp": {
+            "params": {
+                "variant": {
+                    "value": 0
+                },
+                "image_type": {
+                    "value": "default"
+                }
+            }
+        },
         "ig_android_dont_prefetch_follow_list": {
             "params": {
                 "is_enabled": {
