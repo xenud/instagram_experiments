@@ -7692,9 +7692,6 @@
                 },
                 "enable_stereo": {
                     "value": false
-                },
-                "log_stereo_audio_eligibility": {
-                    "value": true
                 }
             }
         },
