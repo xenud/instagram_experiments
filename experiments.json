@@ -2813,7 +2813,7 @@
         "ig_cameracore_android_async_camera_open": {
             "params": {
                 "enable_async_camera_open": {
-                    "value": false
+                    "value": true
                 }
             }
         },
