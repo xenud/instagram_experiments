@@ -7821,7 +7821,10 @@
                     "value": 100
                 },
                 "enable_battery_monitor": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "450740432904822"
+                    ]
                 }
             }
         },
