@@ -2040,6 +2040,13 @@
                 }
             }
         },
+        "ig_android_smb_professional_account_signup_for_fb_ci_launcher": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_smb_professional_account_signup_launcher": {
             "params": {
                 "is_enabled": {
