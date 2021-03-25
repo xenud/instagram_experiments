@@ -10977,9 +10977,6 @@
                 "show_notification_onboarding_nux": {
                     "value": false
                 },
-                "show_everyone_else_inbox_upsell": {
-                    "value": false
-                },
                 "show_notification_existing_user_nux": {
                     "value": false
                 },
