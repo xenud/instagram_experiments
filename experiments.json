@@ -8817,6 +8817,9 @@
                 },
                 "show_drop_in_nux": {
                     "value": false
+                },
+                "start_regular_call_dialog_count": {
+                    "value": 3
                 }
             }
         },
