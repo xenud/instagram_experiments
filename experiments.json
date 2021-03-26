@@ -5168,9 +5168,6 @@
                 "lightweight_refresh_on_app_background": {
                     "value": true
                 },
-                "lightweight_pill_enabled": {
-                    "value": true
-                },
                 "lightweight_refresh_on_app_foreground": {
                     "value": true
                 },
