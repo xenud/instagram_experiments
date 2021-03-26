@@ -8178,6 +8178,9 @@
         },
         "ig_user_pay_supporter_info_in_pinned_comments": {
             "params": {
+                "enabled": {
+                    "value": false
+                },
                 "creator_enabled": {
                     "value": false
                 }
