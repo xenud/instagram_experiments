@@ -8135,6 +8135,9 @@
                 },
                 "is_transaction_history_enabled": {
                     "value": false
+                },
+                "limit_latest_transactions_shown": {
+                    "value": 5
                 }
             }
         },
