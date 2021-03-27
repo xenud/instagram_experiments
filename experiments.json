@@ -4659,7 +4659,7 @@
                     "value": true
                 },
                 "is_xac_groups_compatible": {
-                    "value": false
+                    "value": true
                 }
             }
         },
