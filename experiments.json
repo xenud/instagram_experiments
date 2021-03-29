@@ -3283,6 +3283,9 @@
                 "enable_thread_details_chat_themes_upsell_android": {
                     "value": true
                 },
+                "android_should_remove_settings_upsell": {
+                    "value": true
+                },
                 "android_enable_proactive_selfie_sticker_qp": {
                     "value": true
                 },
@@ -11987,8 +11990,14 @@
         },
         "ig_android_migrate_reporting_www_bloks_h1": {
             "params": {
+                "enabled": {
+                    "value": false
+                },
+                "supported_content_types": {
+                    "value": "[]"
+                },
                 "launched_content_types": {
-                    "value": "[1, 2]"
+                    "value": "[]"
                 }
             }
         },
