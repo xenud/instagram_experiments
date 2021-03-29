@@ -6989,6 +6989,9 @@
                 },
                 "receive_batch_size": {
                     "value": 0
+                },
+                "fallback_to_tcp_only_on_idle_timeout": {
+                    "value": false
                 }
             }
         },
