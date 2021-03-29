@@ -2963,13 +2963,13 @@
         "ig_android_reels_audio_page_improvement": {
             "params": {
                 "animate_use_audio_button": {
-                    "value": true
+                    "value": false
                 },
                 "autoplay_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "move_save_share": {
-                    "value": true
+                    "value": false
                 }
             }
         },
