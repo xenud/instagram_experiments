@@ -8819,6 +8819,9 @@
                 },
                 "start_regular_call_dialog_count": {
                     "value": 3
+                },
+                "start_regular_call_accept_count": {
+                    "value": 0
                 }
             }
         },
@@ -9079,8 +9082,23 @@
         },
         "ig_vc_rsys_overlayconfig_platformvideoencoderconfig": {
             "params": {
+                "enable_fps_scaler": {
+                    "value": 0
+                },
+                "videotoolbox_bitrate_scaler_enabled": {
+                    "value": 0
+                },
+                "libvpx_quality_scaler_enabled": {
+                    "value": 0
+                },
                 "min_pixel_per_frame": {
                     "value": 57600
+                },
+                "fps_scaler_max_frame_rate": {
+                    "value": 30
+                },
+                "bitrate_scaler_multiplier": {
+                    "value": 10
                 }
             }
         },
