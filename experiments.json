@@ -2212,8 +2212,8 @@
                 "max_effect_cache_size_mb": {
                     "value": 800
                 },
-                "max_scripting_packages_cache_size_mb": {
-                    "value": true
+                "max_scripting_package_cache_size_mb": {
+                    "value": 1
                 }
             }
         },
