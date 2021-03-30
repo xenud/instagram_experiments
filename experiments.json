@@ -6580,6 +6580,9 @@
             "params": {
                 "is_enabled": {
                     "value": true
+                },
+                "count": {
+                    "value": 2
                 }
             }
         },
