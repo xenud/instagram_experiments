@@ -7259,13 +7259,13 @@
                     "value": false
                 },
                 "session_sample_rate_beta": {
-                    "value": 0
+                    "value": 10000
                 },
                 "session_sample_rate_alpha": {
-                    "value": 0
+                    "value": 100000
                 },
                 "session_sample_rate_prod": {
-                    "value": 0
+                    "value": 10000
                 }
             }
         },
