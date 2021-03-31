@@ -8769,6 +8769,12 @@
                 },
                 "join_call_button_enabled": {
                     "value": false
+                },
+                "confirmation_dialog_enabled": {
+                    "value": false
+                },
+                "should_use_speaker": {
+                    "value": false
                 }
             }
         },
