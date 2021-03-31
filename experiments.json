@@ -5357,6 +5357,16 @@
                 }
             }
         },
+        "ig_android_igtv_upload_duration": {
+            "params": {
+                "max_duration_ms": {
+                    "value": 900500
+                },
+                "min_duration_ms": {
+                    "value": 59500
+                }
+            }
+        },
         "ig_android_igtv_upload_error_report": {
             "params": {
                 "is_enabled": {
