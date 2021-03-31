@@ -8775,6 +8775,9 @@
                 },
                 "should_use_speaker": {
                     "value": false
+                },
+                "confirmation_dialog_display_count": {
+                    "value": 999
                 }
             }
         },
