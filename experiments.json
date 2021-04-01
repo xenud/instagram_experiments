@@ -3026,6 +3026,9 @@
                 },
                 "scrubber_resource_release_holdback": {
                     "value": false
+                },
+                "is_remix_enabled_for_timeline": {
+                    "value": false
                 }
             }
         },
