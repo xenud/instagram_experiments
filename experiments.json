@@ -6722,7 +6722,10 @@
         "ig_android_launcher_profile_prefetch_schedule_graph_fix": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false,
+                    "logging_id": [
+                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                    ]
                 }
             }
         },
