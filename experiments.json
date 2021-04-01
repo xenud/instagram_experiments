@@ -11030,7 +11030,7 @@
         "threads_android_deprecate_top_threads_v2": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
