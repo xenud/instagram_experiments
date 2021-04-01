@@ -3146,10 +3146,7 @@
         "ig_android_use_touch_sample_for_drawing_state": {
             "params": {
                 "enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "GK$ig_android_use_touch_sample_for_drawing_state$public$testing$4$1513101T"
-                    ]
+                    "value": true
                 }
             }
         },
