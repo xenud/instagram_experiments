@@ -8168,6 +8168,9 @@
                 },
                 "limit_latest_transactions_shown": {
                     "value": 5
+                },
+                "is_payout_info_sections_expandable": {
+                    "value": false
                 }
             }
         },
