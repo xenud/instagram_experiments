@@ -3558,13 +3558,6 @@
                 }
             }
         },
-        "ig_android_direct_msys_activity_indicator": {
-            "params": {
-                "msys_bootstrap_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_direct_msys_inbox": {
             "params": {
                 "redux_enabled": {
