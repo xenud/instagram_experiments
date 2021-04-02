@@ -3029,6 +3029,9 @@
                 },
                 "is_remix_enabled_for_timeline": {
                     "value": false
+                },
+                "progress_dialog_for_share_sheet": {
+                    "value": false
                 }
             }
         },
