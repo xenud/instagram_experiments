@@ -7793,6 +7793,16 @@
                 }
             }
         },
+        "ig_android_live_ring_for_search_users": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                },
+                "is_live_query_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_live_sdk_perf": {
             "params": {
                 "separate_live_audio_encoder_thread": {
@@ -10194,6 +10204,12 @@
                     "value": false
                 },
                 "disable_reels_viewer_sync_with_grid_store": {
+                    "value": false
+                },
+                "show_like_count": {
+                    "value": false
+                },
+                "show_comment_count": {
                     "value": false
                 }
             }
