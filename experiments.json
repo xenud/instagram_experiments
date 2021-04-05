@@ -3021,7 +3021,7 @@
                     "value": false
                 },
                 "progress_dialog_for_share_sheet": {
-                    "value": false
+                    "value": true
                 }
             }
         },
