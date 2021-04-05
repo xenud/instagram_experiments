@@ -5693,16 +5693,10 @@
         "ig_android_xposting_feed_destination_picker": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "477687679887349"
-                    ]
+                    "value": true
                 },
                 "is_tokenless_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "477687679887349"
-                    ]
+                    "value": true
                 }
             }
         },
