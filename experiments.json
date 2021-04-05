@@ -4216,6 +4216,9 @@
                 },
                 "theme_chill_enabled": {
                     "value": false
+                },
+                "theme_earth_enabled": {
+                    "value": false
                 }
             }
         },
