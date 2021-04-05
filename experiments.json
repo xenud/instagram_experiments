@@ -7308,13 +7308,6 @@
                 }
             }
         },
-        "ig_android_unstable_content_provider_query": {
-            "params": {
-                "fix_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_upload_heap_on_oom": {
             "params": {
                 "is_enabled": {
