@@ -2716,16 +2716,10 @@
         "ig_camera_android_touch_up": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1157402261356152"
-                    ]
+                    "value": false
                 },
                 "has_color_intensity_change": {
-                    "value": false,
-                    "logging_id": [
-                        "1157402261356152"
-                    ]
+                    "value": false
                 }
             }
         },
