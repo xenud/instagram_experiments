@@ -2675,13 +2675,6 @@
                 }
             }
         },
-        "ig_camera_android_save_photo_metadata": {
-            "params": {
-                "save_metadata": {
-                    "value": true
-                }
-            }
-        },
         "ig_camera_android_spark_cancellation": {
             "params": {
                 "cancel_prefetch": {
