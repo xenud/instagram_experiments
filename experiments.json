@@ -705,10 +705,10 @@
                     "value": false
                 },
                 "sn_carousel_window_items_right": {
-                    "value": 2
+                    "value": 0
                 },
                 "sn_carousel_window_items_left": {
-                    "value": 1
+                    "value": 0
                 },
                 "sn_bind_view_on_viewer_animation_setup": {
                     "value": true
