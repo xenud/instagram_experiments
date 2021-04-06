@@ -7706,15 +7706,12 @@
         "ig_android_live_network_params": {
             "params": {
                 "copa_latency_factor": {
-                    "value": 0.05,
-                    "logging_id": [
-                        "1038880789966398"
-                    ]
+                    "value": 0.05
                 },
                 "copa_use_rtt_standing": {
-                    "value": true,
+                    "value": false,
                     "logging_id": [
-                        "1038880789966398"
+                        "722920038384408"
                     ]
                 },
                 "quic_socket_drain_timeout_ms": {
