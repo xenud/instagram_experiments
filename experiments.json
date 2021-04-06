@@ -8760,17 +8760,14 @@
                 "is_enabled": {
                     "value": false
                 },
+                "hide_info_button": {
+                    "value": false
+                },
+                "mws_ring_enabled": {
+                    "value": true
+                },
                 "join_call_button_enabled": {
                     "value": false
-                },
-                "confirmation_dialog_enabled": {
-                    "value": false
-                },
-                "should_use_speaker": {
-                    "value": false
-                },
-                "confirmation_dialog_display_count": {
-                    "value": 999
                 }
             }
         },
