@@ -271,10 +271,16 @@
         "ig_android_iab_history_launcher": {
             "params": {
                 "is_enabled_in_iab_header": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "1273845006320180"
+                    ]
                 },
                 "is_enabled_in_profile_tray": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "1273845006320180"
+                    ]
                 }
             }
         },
