@@ -3494,10 +3494,7 @@
         "ig_android_direct_keyboard_animations": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1065718823894130"
-                    ]
+                    "value": true
                 }
             }
         },
