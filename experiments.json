@@ -9321,6 +9321,9 @@
                 },
                 "ig_keyword_bootstrap_past_engagements_laser": {
                     "value": "ig_keywords_bootstrap_past_engagements"
+                },
+                "keyword_bootstrap_min_char": {
+                    "value": 0
                 }
             }
         },
