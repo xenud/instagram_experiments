@@ -1253,6 +1253,9 @@
                 },
                 "in_memory_upload_delay": {
                     "value": 5000
+                },
+                "buffer_on_background": {
+                    "value": false
                 }
             }
         },
