@@ -8840,6 +8840,15 @@
                 },
                 "start_regular_call_accept_count": {
                     "value": 0
+                },
+                "presence_head_menu_audio_call_button_enabled": {
+                    "value": false
+                },
+                "presence_head_menu_video_call_button_enabled": {
+                    "value": false
+                },
+                "presence_head_menu_enabled": {
+                    "value": false
                 }
             }
         },
