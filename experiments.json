@@ -1250,6 +1250,9 @@
                 },
                 "schedule_alarm_in_foreground": {
                     "value": true
+                },
+                "in_memory_upload_delay": {
+                    "value": 5000
                 }
             }
         },
