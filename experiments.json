@@ -4985,6 +4985,9 @@
                 },
                 "should_check_push_without_exposure": {
                     "value": false
+                },
+                "deeplink_external_urls_to_tab": {
+                    "value": false
                 }
             }
         },
