@@ -3494,13 +3494,6 @@
                 }
             }
         },
-        "ig_android_direct_keyboard_animations": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_direct_launch_msys_inbox": {
             "params": {
                 "is_enabled": {
