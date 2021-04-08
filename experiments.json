@@ -2281,16 +2281,6 @@
                 }
             }
         },
-        "ig_android_camera_preview_quality": {
-            "params": {
-                "enable_noise_reduction": {
-                    "value": false
-                },
-                "enable_tone_mapping": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_camera_selfie_flash_color": {
             "params": {
                 "color_string": {
