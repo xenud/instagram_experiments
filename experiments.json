@@ -6508,6 +6508,9 @@
                 },
                 "ignore_all_disk_similar_keys": {
                     "value": false
+                },
+                "use_image_url_internal_similarity": {
+                    "value": false
                 }
             }
         },
