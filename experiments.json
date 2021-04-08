@@ -10,7 +10,7 @@
         "ig_ad_android_stories_gaprule_between_2ads_insertion": {
             "params": {
                 "enable_gap_rule_between_2ads_insertion": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -69,7 +69,7 @@
         "ig_android_ads_time_based_insertion": {
             "params": {
                 "enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -153,13 +153,13 @@
         "ig_android_autofill_global_v2": {
             "params": {
                 "is_enabled": {
-                    "value": true,
+                    "value": false,
                     "logging_id": [
                         "1603012433202198"
                     ]
                 },
                 "is_analytics_enabled": {
-                    "value": true,
+                    "value": false,
                     "logging_id": [
                         "1603012433202198"
                     ]
@@ -235,7 +235,7 @@
         "ig_android_hp2_push_up": {
             "params": {
                 "enable_media_base_highest_position": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -287,7 +287,7 @@
         "ig_android_iab_layout_consistency": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -388,17 +388,17 @@
         "ig_android_inventory_based_request_launch": {
             "params": {
                 "enable_inventory_based_request": {
-                    "value": true
+                    "value": false
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
         "ig_android_light_mode_cta_color": {
             "params": {
                 "is_primary_text_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -433,7 +433,7 @@
         "ig_android_pre_highlight_cta_color": {
             "params": {
                 "cta_pre_highlight_color_scheme": {
-                    "value": 2
+                    "value": 0
                 }
             }
         },
@@ -745,7 +745,7 @@
         "ig_android_story_ads_interactivity_dpa_tap": {
             "params": {
                 "is_tooltip_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "tooltip_offset_in_dp": {
                     "value": 40
@@ -772,13 +772,13 @@
         "ig_android_story_new_cta_button": {
             "params": {
                 "entry_animation_style": {
-                    "value": -1
+                    "value": 0
                 },
                 "is_center_align_small_button_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "dwell_time_in_milliseconds": {
-                    "value": 2000.0
+                    "value": 0.0
                 }
             }
         },
@@ -992,7 +992,7 @@
         "instagram_3pd_ads_personalization": {
             "params": {
                 "enable_3pd_ads_personalization": {
-                    "value": true
+                    "value": false
                 }
             }
         },
@@ -8058,13 +8058,6 @@
             "params": {
                 "is_enabled": {
                     "value": true
-                }
-            }
-        },
-        "ig_igtv_ads_unmanaged_onboarding_notification": {
-            "params": {
-                "is_enabled": {
-                    "value": false
                 }
             }
         },
