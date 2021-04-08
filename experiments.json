@@ -7302,6 +7302,16 @@
                 }
             }
         },
+        "ig_android_story_viewpager_childview_prefetch": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "story_view_prefetch_count": {
+                    "value": 0
+                }
+            }
+        },
         "ig_android_track_view_leaks": {
             "params": {
                 "track_leaks": {
