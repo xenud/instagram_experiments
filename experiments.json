@@ -4766,6 +4766,9 @@
                 },
                 "is_loop_prefetch_check_enabled": {
                     "value": false
+                },
+                "prefetch_first_video": {
+                    "value": false
                 }
             }
         },
