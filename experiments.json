@@ -3161,6 +3161,9 @@
             "params": {
                 "drafts_v2_enabled": {
                     "value": false
+                },
+                "draft_save_points_enabled": {
+                    "value": false
                 }
             }
         },
