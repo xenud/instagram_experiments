@@ -6234,6 +6234,28 @@
                 }
             }
         },
+        "ig_android_direct_inbox_scroll_perf_improvements": {
+            "params": {
+                "paginate_on_scroll_idle": {
+                    "value": true,
+                    "logging_id": [
+                        "800711304202340"
+                    ]
+                },
+                "early_check_notif_eligibility_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "800711304202340"
+                    ]
+                },
+                "early_check_notif_filter_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "800711304202340"
+                    ]
+                }
+            }
+        },
         "ig_android_disk_trimmable_infra": {
             "params": {
                 "is_enabled": {
