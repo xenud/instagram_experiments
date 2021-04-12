@@ -470,13 +470,6 @@
                 }
             }
         },
-        "ig_android_retail_ads_all_cta_differentiation": {
-            "params": {
-                "enable_left_icon": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_review_screen_payments_revamp": {
             "params": {
                 "enable_create_button": {
