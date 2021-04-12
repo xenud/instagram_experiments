@@ -5613,6 +5613,13 @@
                 }
             }
         },
+        "ig_android_session_survey": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_story_viewer_list_graph_evolution_actions": {
             "params": {
                 "remove_follower_enabled": {
