@@ -2322,34 +2322,6 @@
                 }
             }
         },
-        "ig_android_stories_poses_launcher": {
-            "params": {
-                "enable_sound": {
-                    "value": false,
-                    "logging_id": [
-                        "1550587305329362"
-                    ]
-                },
-                "show_toast": {
-                    "value": false,
-                    "logging_id": [
-                        "1550587305329362"
-                    ]
-                },
-                "enabled_poses": {
-                    "value": false,
-                    "logging_id": [
-                        "1550587305329362"
-                    ]
-                },
-                "enable_instant_preview": {
-                    "value": false,
-                    "logging_id": [
-                        "1550587305329362"
-                    ]
-                }
-            }
-        },
         "ig_android_target_recognition_v8": {
             "params": {
                 "downsample_frames": {
