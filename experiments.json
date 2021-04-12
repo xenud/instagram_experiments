@@ -8207,6 +8207,9 @@
                 },
                 "is_service_cache_enabled": {
                     "value": false
+                },
+                "ios_skip_django_proxy": {
+                    "value": false
                 }
             }
         },
