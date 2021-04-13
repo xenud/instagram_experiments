@@ -842,6 +842,9 @@
             "params": {
                 "tooltip_max_show_count": {
                     "value": 1
+                },
+                "use_new_check": {
+                    "value": false
                 }
             }
         },
@@ -2319,6 +2322,22 @@
             "params": {
                 "is_enabled": {
                     "value": true
+                }
+            }
+        },
+        "ig_android_stories_poses_launcher": {
+            "params": {
+                "enable_sound": {
+                    "value": true
+                },
+                "show_toast": {
+                    "value": false
+                },
+                "enabled_poses": {
+                    "value": true
+                },
+                "enable_instant_preview": {
+                    "value": false
                 }
             }
         },
