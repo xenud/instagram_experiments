@@ -8122,9 +8122,6 @@
                 "is_stepper_flow_enabled": {
                     "value": false
                 },
-                "enabled": {
-                    "value": false
-                },
                 "is_transaction_history_enabled": {
                     "value": false
                 },
@@ -9139,16 +9136,6 @@
                 },
                 "use_for_encoding": {
                     "value": 1
-                }
-            }
-        },
-        "ig_vc_rsys_overlayconfig_rmnetconfig": {
-            "params": {
-                "unblock_mvnos": {
-                    "value": 0
-                },
-                "block_10_prefix": {
-                    "value": 0
                 }
             }
         },
