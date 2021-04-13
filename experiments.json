@@ -4433,7 +4433,7 @@
         "igd_android_aggregated_media_feature_gating_launcher": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
