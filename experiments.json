@@ -9329,6 +9329,15 @@
                 },
                 "keyword_bootstrap_min_char": {
                     "value": 0
+                },
+                "enable_ig_keyword_bootstrap_engagement_neighbors": {
+                    "value": false
+                },
+                "ig_keywords_bootstrap_fallback_max_num": {
+                    "value": 1000
+                },
+                "ig_keyword_bootstrap_fallback_laser_key": {
+                    "value": "global_good_actions"
                 }
             }
         },
