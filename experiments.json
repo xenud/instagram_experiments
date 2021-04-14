@@ -7588,6 +7588,16 @@
                 }
             }
         },
+        "ig4a_live_sdk_heartbeat_interval": {
+            "params": {
+                "heartbeat_interval": {
+                    "value": 0,
+                    "logging_id": [
+                        "457803382090629"
+                    ]
+                }
+            }
+        },
         "ig4a_live_sdk_max_interruption_sec": {
             "params": {
                 "max_interruption_sec": {
