@@ -696,6 +696,9 @@
                 },
                 "sn_bind_view_on_viewer_animation_setup": {
                     "value": true
+                },
+                "sn_carousel_logging_fix_enabled": {
+                    "value": false
                 }
             }
         },
