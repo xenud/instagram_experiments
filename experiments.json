@@ -3402,7 +3402,7 @@
         "ig_android_direct_forwarding": {
             "params": {
                 "kill_switch": {
-                    "value": false
+                    "value": true
                 }
             }
         },
