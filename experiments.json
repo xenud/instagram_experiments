@@ -699,6 +699,9 @@
                 },
                 "sn_carousel_logging_fix_enabled": {
                     "value": false
+                },
+                "bg_executor_for_main_fetching_enabled": {
+                    "value": true
                 }
             }
         },
@@ -7409,6 +7412,16 @@
                 },
                 "is_enabled": {
                     "value": true
+                }
+            }
+        },
+        "ig_launcher_android_remove_video_queue": {
+            "params": {
+                "use_video_executor_v2": {
+                    "value": false,
+                    "logging_id": [
+                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                    ]
                 }
             }
         },
