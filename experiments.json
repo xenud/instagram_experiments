@@ -10207,9 +10207,6 @@
                 "disable_reels_viewer_ptr": {
                     "value": false
                 },
-                "disable_reels_viewer_sync_with_grid_store": {
-                    "value": false
-                },
                 "show_like_count": {
                     "value": false
                 },
