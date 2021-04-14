@@ -11795,7 +11795,7 @@
                     "value": false
                 },
                 "is_module_whitelist_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "comma_separated_module_whitelist": {
                     "value": "feed_timeline,feed_timeline_older"
