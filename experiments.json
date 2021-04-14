@@ -8177,6 +8177,13 @@
                 }
             }
         },
+        "ig_user_pay_multiple_payments": {
+            "params": {
+                "enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_user_pay_new_onboarding_flow": {
             "params": {
                 "enabled": {
