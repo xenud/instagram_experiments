@@ -4919,6 +4919,9 @@
                 },
                 "allow_old_one_item_guides": {
                     "value": true
+                },
+                "is_save_collection_entrypoint_enabled": {
+                    "value": false
                 }
             }
         },
