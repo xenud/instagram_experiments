@@ -6950,9 +6950,6 @@
                 "use_mobile_network_stack_service_layer": {
                     "value": false
                 },
-                "use_tls13_socket": {
-                    "value": false
-                },
                 "tcp_fallback_quic_backoff_interval_ms": {
                     "value": 0
                 },
@@ -9677,6 +9674,16 @@
             "params": {
                 "is_enabled": {
                     "value": true
+                }
+            }
+        },
+        "ig_shopping_android_pdp_load_success_usl": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "use_zero_latency": {
+                    "value": false
                 }
             }
         },
