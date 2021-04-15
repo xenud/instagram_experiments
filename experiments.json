@@ -9163,6 +9163,9 @@
             "params": {
                 "solo_send_disabled": {
                     "value": -1
+                },
+                "enable_media_stats": {
+                    "value": 0
                 }
             }
         },
