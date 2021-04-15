@@ -4922,6 +4922,9 @@
                 },
                 "is_save_collection_entrypoint_enabled": {
                     "value": false
+                },
+                "is_search_enabled": {
+                    "value": false
                 }
             }
         },
