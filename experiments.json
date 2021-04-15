@@ -9165,7 +9165,7 @@
                     "value": -1
                 },
                 "enable_media_stats": {
-                    "value": 0
+                    "value": -1
                 }
             }
         },
