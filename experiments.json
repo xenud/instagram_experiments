@@ -6960,6 +6960,9 @@
                 "use_mobile_network_stack_service_layer": {
                     "value": false
                 },
+                "use_tls13_socket": {
+                    "value": false
+                },
                 "tcp_fallback_quic_backoff_interval_ms": {
                     "value": 0
                 },
