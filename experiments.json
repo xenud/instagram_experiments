@@ -1850,6 +1850,13 @@
                 }
             }
         },
+        "ig_epd_project_switch_null_messaging_convo_started": {
+            "params": {
+                "enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_pro_home_m1": {
             "params": {
                 "is_enabled": {
