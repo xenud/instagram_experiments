@@ -9098,11 +9098,14 @@
                 "enable_dtx": {
                     "value": 1
                 },
+                "max_complexity": {
+                    "value": 5
+                },
                 "vbr": {
                     "value": -1
                 },
                 "initiate_bitrate_bps": {
-                    "value": -1
+                    "value": 25000
                 },
                 "complexity_threshold_bps": {
                     "value": -1
@@ -9112,6 +9115,9 @@
                 },
                 "complexity_threshold_window_bps": {
                     "value": -1
+                },
+                "min_complexity": {
+                    "value": 5
                 },
                 "max_bitrate_kbps": {
                     "value": -1
