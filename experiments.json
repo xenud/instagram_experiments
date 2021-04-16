@@ -7829,9 +7829,6 @@
                 "allow_separate_threads": {
                     "value": false
                 },
-                "muxer_max_pending_jobs": {
-                    "value": 100
-                },
                 "enable_battery_monitor": {
                     "value": true
                 }
