@@ -11152,6 +11152,34 @@
                 }
             }
         },
+        "ig_android_motion_v2_universe": {
+            "params": {
+                "animation_version": {
+                    "value": 1,
+                    "logging_id": [
+                        "1600084733522269"
+                    ]
+                },
+                "pop_duration": {
+                    "value": 350,
+                    "logging_id": [
+                        "1600084733522269"
+                    ]
+                },
+                "push_duration": {
+                    "value": 300,
+                    "logging_id": [
+                        "1600084733522269"
+                    ]
+                },
+                "animation_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "1600084733522269"
+                    ]
+                }
+            }
+        },
         "ig_app_speed_mediauri_parse": {
             "params": {
                 "is_avoid_alloc_enabled": {
