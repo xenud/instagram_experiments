@@ -9700,10 +9700,7 @@
         "ig_shopping_android_pdp_media_prefetch": {
             "params": {
                 "is_product_tile_prefetch_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "414422336482046"
-                    ]
+                    "value": true
                 }
             }
         },
