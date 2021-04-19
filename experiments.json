@@ -8794,6 +8794,22 @@
                 }
             }
         },
+        "ig_android_vc_avatar": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "is_employee_or_test_account": {
+                    "value": false
+                },
+                "block_for_public_accounts": {
+                    "value": true
+                },
+                "target_capture_resolution_multiplier": {
+                    "value": 1.5
+                }
+            }
+        },
         "ig_android_vc_call_expansion": {
             "params": {
                 "is_enabled": {
