@@ -4280,6 +4280,13 @@
                 }
             }
         },
+        "ig_direct_folder_badge": {
+            "params": {
+                "enabled_status": {
+                    "value": 0
+                }
+            }
+        },
         "ig_direct_germany_hide_context_in_notification": {
             "params": {
                 "is_enabled": {
