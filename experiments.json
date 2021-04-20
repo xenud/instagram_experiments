@@ -10267,6 +10267,9 @@
                 },
                 "show_comment_count": {
                     "value": false
+                },
+                "show_no_metadata": {
+                    "value": false
                 }
             }
         },
