@@ -8157,6 +8157,9 @@
                 },
                 "is_payout_info_sections_expandable": {
                     "value": false
+                },
+                "is_download_transaction_history_enabled": {
+                    "value": false
                 }
             }
         },
