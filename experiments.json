@@ -3509,10 +3509,10 @@
                     "value": false
                 },
                 "state_store_thread_list_fix_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "reuse_legacy_capabilities_instance_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
