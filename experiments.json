@@ -6989,7 +6989,7 @@
                     "value": true
                 },
                 "buffer_response_body": {
-                    "value": true
+                    "value": false
                 }
             }
         },
