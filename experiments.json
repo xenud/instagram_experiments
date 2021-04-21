@@ -3510,6 +3510,9 @@
                 },
                 "state_store_thread_list_fix_enabled": {
                     "value": false
+                },
+                "reuse_legacy_capabilities_instance_enabled": {
+                    "value": false
                 }
             }
         },
