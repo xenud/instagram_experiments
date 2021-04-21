@@ -698,10 +698,10 @@
                     "value": true
                 },
                 "sn_carousel_logging_fix_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "bg_executor_for_main_fetching_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
