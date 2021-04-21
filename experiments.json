@@ -1747,9 +1747,6 @@
                 "is_enabled": {
                     "value": true
                 },
-                "has_gift_card_option": {
-                    "value": true
-                },
                 "has_donation_option": {
                     "value": false
                 },
