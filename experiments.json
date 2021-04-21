@@ -3507,6 +3507,9 @@
             "params": {
                 "redux_enabled": {
                     "value": false
+                },
+                "state_store_thread_list_fix_enabled": {
+                    "value": false
                 }
             }
         },
