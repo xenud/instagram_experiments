@@ -6987,6 +6987,9 @@
                 },
                 "fallback_to_tcp_only_on_idle_timeout": {
                     "value": true
+                },
+                "buffer_response_body": {
+                    "value": true
                 }
             }
         },
