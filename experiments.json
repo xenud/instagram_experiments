@@ -10289,6 +10289,9 @@
                 },
                 "show_no_metadata": {
                     "value": false
+                },
+                "enable_animated_thumbnails": {
+                    "value": false
                 }
             }
         },
