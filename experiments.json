@@ -3724,10 +3724,16 @@
         },
         "ig_android_direct_seen_states_in_inbox": {
             "params": {
+                "enabled_message_level_seen_states_in_thread": {
+                    "value": false
+                },
                 "enabled_delivered_failed_states_in_thread": {
                     "value": false
                 },
                 "enabled_sent_state_in_thread": {
+                    "value": false
+                },
+                "is_group_seen_heads_enabled": {
                     "value": false
                 }
             }
