@@ -8828,7 +8828,7 @@
                     "value": false
                 },
                 "block_for_public_accounts": {
-                    "value": true
+                    "value": false
                 },
                 "target_capture_resolution_multiplier": {
                     "value": 1.5
