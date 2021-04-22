@@ -1230,6 +1230,9 @@
                 },
                 "buffer_on_background": {
                     "value": false
+                },
+                "use_pigeon_session_id_store": {
+                    "value": false
                 }
             }
         },
