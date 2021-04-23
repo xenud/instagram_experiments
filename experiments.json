@@ -10294,6 +10294,9 @@
                 },
                 "enable_animated_thumbnails": {
                     "value": false
+                },
+                "animated_thumbnail_loop_duration": {
+                    "value": -1
                 }
             }
         },
