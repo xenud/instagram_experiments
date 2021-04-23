@@ -4319,6 +4319,9 @@
                 },
                 "enable_creator_account_settings": {
                     "value": true
+                },
+                "enable_global_launch": {
+                    "value": false
                 }
             }
         },
@@ -4708,16 +4711,6 @@
                 },
                 "use_media_cache_as_backup": {
                     "value": true
-                }
-            }
-        },
-        "ig_android_autoload_more_threshold": {
-            "params": {
-                "use_dp_height_discovery_grid": {
-                    "value": false
-                },
-                "dp_height_discovery_grid": {
-                    "value": 1087
                 }
             }
         },
