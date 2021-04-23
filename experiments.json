@@ -4378,6 +4378,9 @@
                 },
                 "is_voice_enabled": {
                     "value": false
+                },
+                "is_poll_enabled": {
+                    "value": true
                 }
             }
         },
