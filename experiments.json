@@ -4319,9 +4319,6 @@
                 },
                 "enable_creator_account_settings": {
                     "value": true
-                },
-                "enable_global_launch": {
-                    "value": false
                 }
             }
         },
