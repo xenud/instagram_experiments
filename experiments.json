@@ -7676,15 +7676,6 @@
                 },
                 "max_bitrate_default": {
                     "value": 1000000
-                },
-                "max_resolution_regular": {
-                    "value": 432
-                },
-                "max_resolution_server_abr_enabled": {
-                    "value": 504
-                },
-                "max_resolution_premium": {
-                    "value": 720
                 }
             }
         },
