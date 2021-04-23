@@ -7818,7 +7818,10 @@
                     "value": false
                 },
                 "disable_on_camera2_only": {
-                    "value": false
+                    "value": false,
+                    "logging_id": [
+                        "926263051553347"
+                    ]
                 }
             }
         },
