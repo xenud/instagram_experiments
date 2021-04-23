@@ -4597,13 +4597,6 @@
                 }
             }
         },
-        "igd_integrity_recipient_unsend_nux_killswitch": {
-            "params": {
-                "is_enabled": {
-                    "value": true
-                }
-            }
-        },
         "igd_mwb_unsend_nux_recipient_banner_max_times_to_show": {
             "params": {
                 "count": {
