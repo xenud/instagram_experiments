@@ -5023,6 +5023,16 @@
                 }
             }
         },
+        "ig_android_carousel_overscroll": {
+            "params": {
+                "is_overscroll_on_start_item_enabled": {
+                    "value": false
+                },
+                "is_overscroll_on_end_item_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_create_post_shortcut_bottom_sheet": {
             "params": {
                 "enabled": {
