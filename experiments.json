@@ -8580,6 +8580,9 @@
                 },
                 "should_redirect_to_messenger": {
                     "value": true
+                },
+                "should_allow_anonymous_guests": {
+                    "value": true
                 }
             }
         },
