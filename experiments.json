@@ -10288,6 +10288,9 @@
                 },
                 "animated_thumbnail_loop_duration": {
                     "value": -1
+                },
+                "animated_thumbnail_autoadvance_loop_count": {
+                    "value": -1
                 }
             }
         },
