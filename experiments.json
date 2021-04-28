@@ -5628,6 +5628,9 @@
         "ig_android_session_survey": {
             "params": {
                 "is_enabled": {
+                    "value": true
+                },
+                "bypass_rate_limit": {
                     "value": false
                 }
             }
