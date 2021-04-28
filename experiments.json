@@ -3727,6 +3727,9 @@
                 "enabled_delivered_failed_states_in_thread": {
                     "value": false
                 },
+                "show_seen_states_in_inbox": {
+                    "value": false
+                },
                 "enabled_sent_state_in_thread": {
                     "value": false
                 },
@@ -5628,7 +5631,7 @@
         "ig_android_session_survey": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "bypass_rate_limit": {
                     "value": false
