@@ -6995,7 +6995,7 @@
                     "value": 200
                 },
                 "receive_batch_size": {
-                    "value": 0
+                    "value": 10
                 },
                 "fallback_to_tcp_only_on_idle_timeout": {
                     "value": true
