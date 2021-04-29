@@ -1849,10 +1849,10 @@
                     "value": false
                 },
                 "android_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "ios_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
