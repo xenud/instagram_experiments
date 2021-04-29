@@ -854,6 +854,19 @@
                 }
             }
         },
+        "ig_explore_time_based_insertion": {
+            "params": {
+                "enable_brand_safety_check": {
+                    "value": false
+                },
+                "default_brs_info_launch": {
+                    "value": false
+                },
+                "enable_client_brs_check_launch": {
+                    "value": false
+                }
+            }
+        },
         "ig_iab_new_url_check_for_ssl_error": {
             "params": {
                 "is_enabled": {
