@@ -8838,6 +8838,12 @@
                 },
                 "target_capture_resolution_multiplier": {
                     "value": 1.5
+                },
+                "show_avatar_mode_toggle": {
+                    "value": false
+                },
+                "presets_enabled": {
+                    "value": false
                 }
             }
         },
