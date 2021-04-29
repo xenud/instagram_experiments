@@ -7891,6 +7891,12 @@
                 },
                 "detector_enable_epoch_report": {
                     "value": true
+                },
+                "transport_stall_detector_provider_enabled": {
+                    "value": false
+                },
+                "sdk_timer_use_separate_thread": {
+                    "value": false
                 }
             }
         },
