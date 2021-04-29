@@ -8453,6 +8453,9 @@
                 },
                 "qpl_pre_sample_rate": {
                     "value": 1000
+                },
+                "enable_hard_crashes": {
+                    "value": false
                 }
             }
         },
