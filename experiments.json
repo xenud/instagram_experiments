@@ -8190,7 +8190,7 @@
                     "value": false
                 },
                 "limit_latest_transactions_shown": {
-                    "value": 5
+                    "value": 2
                 },
                 "is_payout_info_sections_expandable": {
                     "value": false
