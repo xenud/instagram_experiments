@@ -2872,6 +2872,9 @@
             "params": {
                 "is_enabled": {
                     "value": false
+                },
+                "swipe_save_enabled": {
+                    "value": false
                 }
             }
         },
