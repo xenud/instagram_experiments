@@ -7873,10 +7873,16 @@
         "ig_android_live_sdk_perf": {
             "params": {
                 "separate_live_audio_encoder_thread": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "205270444405502"
+                    ]
                 },
                 "allow_separate_threads": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "205270444405502"
+                    ]
                 },
                 "enable_battery_monitor": {
                     "value": true
