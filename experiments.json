@@ -4818,6 +4818,9 @@
                 },
                 "bottom_gradient_background_midpoint": {
                     "value": 0.5
+                },
+                "hide_camera_icon": {
+                    "value": false
                 }
             }
         },
