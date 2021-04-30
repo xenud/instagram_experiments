@@ -11712,13 +11712,6 @@
                 }
             }
         },
-        "ig_android_streaming_upload_kill_get": {
-            "params": {
-                "enabled": {
-                    "value": true
-                }
-            }
-        },
         "ig_android_tune_video_related_params_launcher": {
             "params": {
                 "enable_codec_reuse": {
