@@ -2875,6 +2875,9 @@
                 },
                 "swipe_save_enabled": {
                     "value": false
+                },
+                "editor_change_button_enabled": {
+                    "value": false
                 }
             }
         },
