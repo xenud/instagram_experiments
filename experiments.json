@@ -3144,10 +3144,7 @@
         "ig_clips_audio_browser_redesign_no_tab": {
             "params": {
                 "redesign_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "632724130738714"
-                    ]
+                    "value": true
                 }
             }
         },
