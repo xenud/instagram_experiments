@@ -3064,9 +3064,6 @@
                 "enabled": {
                     "value": false
                 },
-                "use_drafts_tab": {
-                    "value": false
-                },
                 "consumption_enabled": {
                     "value": true
                 }
