@@ -4819,7 +4819,10 @@
                 "bottom_gradient_background_midpoint": {
                     "value": 0.5
                 },
-                "hide_camera_icon": {
+                "hide_camera_icon_out_of_tab": {
+                    "value": false
+                },
+                "hide_camera_icon_on_tab": {
                     "value": false
                 }
             }
