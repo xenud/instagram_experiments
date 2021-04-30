@@ -11510,13 +11510,6 @@
                 }
             }
         },
-        "ig_android_gallery_save_jpeg_quality_100": {
-            "params": {
-                "jpeg_quality": {
-                    "value": 95
-                }
-            }
-        },
         "ig_android_hero_service_memory_leaks_launcher": {
             "params": {
                 "enabled": {
