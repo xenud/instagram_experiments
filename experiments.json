@@ -5188,37 +5188,22 @@
                     "value": true
                 },
                 "lightweight_pill_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "2905601856376723"
-                    ]
+                    "value": true
                 },
                 "lightweight_refresh_on_app_foreground": {
-                    "value": true,
-                    "logging_id": [
-                        "2905601856376723"
-                    ]
+                    "value": true
                 },
                 "lightweight_refresh_on_feed_reappeared": {
                     "value": true
                 },
                 "lightweight_refresh_on_feed_disappeared": {
-                    "value": true,
-                    "logging_id": [
-                        "2905601856376723"
-                    ]
+                    "value": true
                 },
                 "lightweight_end_time": {
-                    "value": 5.0,
-                    "logging_id": [
-                        "2905601856376723"
-                    ]
+                    "value": 5.0
                 },
                 "lightweight_start_time": {
-                    "value": 1.0,
-                    "logging_id": [
-                        "2905601856376723"
-                    ]
+                    "value": 1.0
                 }
             }
         },
