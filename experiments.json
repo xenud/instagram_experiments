@@ -848,9 +848,6 @@
             "params": {
                 "tooltip_max_show_count": {
                     "value": 1
-                },
-                "use_new_check": {
-                    "value": false
                 }
             }
         },
