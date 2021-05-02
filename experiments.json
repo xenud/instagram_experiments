@@ -9203,6 +9203,9 @@
         },
         "ig_vc_rsys_overlayconfig_platformvideoencoderconfig": {
             "params": {
+                "openh264_quality_scaler_enabled": {
+                    "value": -1
+                },
                 "enable_fps_scaler": {
                     "value": 0
                 },
@@ -9220,6 +9223,9 @@
                 },
                 "bitrate_scaler_multiplier": {
                     "value": 10
+                },
+                "openh264_bitrate_scaler_enabled": {
+                    "value": -1
                 }
             }
         },
