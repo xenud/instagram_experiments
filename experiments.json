@@ -6629,6 +6629,22 @@
                 }
             }
         },
+        "ig_android_launcher_explore_gcpu_client_lookahead": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                },
+                "offpeak_lookahead": {
+                    "value": 18
+                },
+                "peak_lookahead": {
+                    "value": 12
+                },
+                "use_absolute_peak": {
+                    "value": true
+                }
+            }
+        },
         "ig_android_launcher_explore_prefetch_api_framework_migration": {
             "params": {
                 "include_is_prefetch": {
