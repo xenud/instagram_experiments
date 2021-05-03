@@ -534,7 +534,7 @@
                     "value": false
                 },
                 "bypass_session_id_validation": {
-                    "value": true
+                    "value": false
                 },
                 "mark_prefetch_critical": {
                     "value": false
