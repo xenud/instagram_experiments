@@ -7911,10 +7911,7 @@
                     "value": 0.05
                 },
                 "copa_use_rtt_standing": {
-                    "value": false,
-                    "logging_id": [
-                        "722920038384408"
-                    ]
+                    "value": false
                 },
                 "quic_socket_drain_timeout_ms": {
                     "value": 1000
