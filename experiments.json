@@ -9077,6 +9077,9 @@
                 },
                 "presence_head_menu_enabled": {
                     "value": false
+                },
+                "presence_head_bottom_sheet_menu_enabled": {
+                    "value": false
                 }
             }
         },
