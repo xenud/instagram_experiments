@@ -1243,6 +1243,9 @@
                 },
                 "use_pigeon_session_id_store": {
                     "value": false
+                },
+                "use_local_broadcast": {
+                    "value": true
                 }
             }
         },
