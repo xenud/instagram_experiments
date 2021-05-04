@@ -7157,6 +7157,9 @@
                 },
                 "buffer_response_body": {
                     "value": false
+                },
+                "buffer_response_body_on_event_loop": {
+                    "value": false
                 }
             }
         },
