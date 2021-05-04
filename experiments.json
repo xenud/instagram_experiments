@@ -7158,7 +7158,7 @@
                 "buffer_response_body": {
                     "value": false
                 },
-                "buffer_response_body_on_event_loop": {
+                "buffer_response_body_in_event_loop": {
                     "value": false
                 }
             }
