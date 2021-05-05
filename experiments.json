@@ -8336,6 +8336,9 @@
                 },
                 "is_download_transaction_history_enabled": {
                     "value": false
+                },
+                "is_onboarding_api_migration_enabled": {
+                    "value": false
                 }
             }
         },
