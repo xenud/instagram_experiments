@@ -8326,7 +8326,7 @@
                     "value": false
                 },
                 "is_stepper_flow_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "is_transaction_history_enabled": {
                     "value": false
