@@ -12194,6 +12194,16 @@
                 }
             }
         },
+        "ig_android_vc_green_dot": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "show_at_top_right_corner": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_vc_media_sync": {
             "params": {
                 "is_enabled": {
