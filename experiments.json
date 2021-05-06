@@ -12020,13 +12020,6 @@
                 }
             }
         },
-        "ig_android_video_upload_iframe_injection": {
-            "params": {
-                "direct_count": {
-                    "value": 0
-                }
-            }
-        },
         "ig_android_viewability_logging": {
             "params": {
                 "lsp_as_current_time": {
