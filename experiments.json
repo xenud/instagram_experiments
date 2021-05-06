@@ -9086,6 +9086,12 @@
                 },
                 "presence_head_bottom_sheet_menu_enabled": {
                     "value": false
+                },
+                "start_regular_audio_call": {
+                    "value": false
+                },
+                "audio_drop_in_enabled": {
+                    "value": false
                 }
             }
         },
