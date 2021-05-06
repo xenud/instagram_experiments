@@ -11941,7 +11941,7 @@
         "ig_android_video_player_closed_captioning": {
             "params": {
                 "enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
