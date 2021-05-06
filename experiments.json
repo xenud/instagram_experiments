@@ -139,6 +139,9 @@
                 "is_w3c_payment_service_enabled": {
                     "value": false
                 },
+                "reconsent_enabled": {
+                    "value": true
+                },
                 "always_show_ads_disclosure": {
                     "value": false
                 },
