@@ -7193,7 +7193,7 @@
                     "value": false
                 },
                 "is_reliability_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
