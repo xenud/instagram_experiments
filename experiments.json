@@ -7197,6 +7197,9 @@
                 },
                 "is_reliability_enabled": {
                     "value": true
+                },
+                "is_graceful_error_handling_disabled": {
+                    "value": false
                 }
             }
         },
