@@ -5636,16 +5636,6 @@
                 }
             }
         },
-        "ig_android_resurrected_user_post_notif_actions_launcher": {
-            "params": {
-                "show_like_comment_sendmessage_notif_actions": {
-                    "value": false,
-                    "logging_id": [
-                        "338712590846138"
-                    ]
-                }
-            }
-        },
         "ig_android_self_follower_v2_correct": {
             "params": {
                 "groups_enabled": {
