@@ -1411,6 +1411,9 @@
                 },
                 "nav_check_with_module_media": {
                     "value": false
+                },
+                "nav_check_with_module_composer_focus_status": {
+                    "value": false
                 }
             }
         },
