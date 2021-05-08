@@ -7139,9 +7139,6 @@
                 "use_tls13_socket": {
                     "value": true
                 },
-                "tcp_fallback_quic_backoff_interval_ms": {
-                    "value": 0
-                },
                 "keep_quic_connection_on_probe_response": {
                     "value": true
                 },
@@ -7159,6 +7156,9 @@
                 },
                 "buffer_response_body_in_event_loop": {
                     "value": false
+                },
+                "tcp_fallback_quic_backoff_ms": {
+                    "value": 0
                 }
             }
         },
