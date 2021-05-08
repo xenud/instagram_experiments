@@ -574,6 +574,12 @@
                 },
                 "ensure_fires_after_feed": {
                     "value": false
+                },
+                "enable_tray_vpvd_prefetch": {
+                    "value": false
+                },
+                "tray_vpvd_threshold_millis": {
+                    "value": 0
                 }
             }
         },
