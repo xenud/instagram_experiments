@@ -7197,6 +7197,9 @@
                 "is_reliability_enabled": {
                     "value": true
                 },
+                "enable_content_provider_fix": {
+                    "value": false
+                },
                 "is_graceful_error_handling_disabled": {
                     "value": false
                 }
