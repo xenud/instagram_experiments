@@ -946,17 +946,8 @@
                 "is_caption_sheet_enabled": {
                     "value": false
                 },
-                "caption_max_line_number": {
-                    "value": -1
-                },
-                "is_sensitive_vertical_ad": {
-                    "value": false
-                },
                 "use_line_spacing_from_fallbacks": {
                     "value": true
-                },
-                "remove_predraw_listener": {
-                    "value": false
                 },
                 "force_draw_background": {
                     "value": true
@@ -964,14 +955,8 @@
                 "is_sn_caption_sheet_enabled": {
                     "value": false
                 },
-                "should_serve_default_caption": {
-                    "value": false
-                },
                 "is_smart_caption_caption_optimization_enabled": {
                     "value": false
-                },
-                "glados_carousel_templates": {
-                    "value": "control"
                 }
             }
         },
