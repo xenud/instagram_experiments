@@ -8760,6 +8760,9 @@
                 },
                 "allow_autoshare_ac_entrypoint_for_biz_user": {
                     "value": true
+                },
+                "android_use_async_for_accounts_center": {
+                    "value": false
                 }
             }
         },
