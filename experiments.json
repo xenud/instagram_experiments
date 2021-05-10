@@ -425,6 +425,13 @@
                 }
             }
         },
+        "ig_android_previewable_video_ad_preview_duration": {
+            "params": {
+                "preview_duration": {
+                    "value": 60000
+                }
+            }
+        },
         "ig_android_promote_destination_refresh_launcher": {
             "params": {
                 "use_updated_language": {
