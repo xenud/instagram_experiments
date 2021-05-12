@@ -721,6 +721,9 @@
                 },
                 "bg_executor_for_main_fetching_enabled": {
                     "value": false
+                },
+                "sn_carousel_cache_usage_logging_enabled": {
+                    "value": true
                 }
             }
         },
