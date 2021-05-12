@@ -3073,6 +3073,9 @@
                 },
                 "consumption_enabled": {
                     "value": true
+                },
+                "should_expire_drafts": {
+                    "value": false
                 }
             }
         },
@@ -7227,6 +7230,28 @@
                 }
             }
         },
+        "ig_android_pending_media_cleanup_thresholds_launcher": {
+            "params": {
+                "is_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "174070807846232"
+                    ]
+                },
+                "old_files_age_limit_mins": {
+                    "value": 360,
+                    "logging_id": [
+                        "174070807846232"
+                    ]
+                },
+                "is_audio_overlay_files_enabled": {
+                    "value": true,
+                    "logging_id": [
+                        "174070807846232"
+                    ]
+                }
+            }
+        },
         "ig_android_photos_qpl_config": {
             "params": {
                 "is_enabled": {
@@ -8004,16 +8029,10 @@
         "ig_android_live_sdk_perf": {
             "params": {
                 "separate_live_audio_encoder_thread": {
-                    "value": true,
-                    "logging_id": [
-                        "205270444405502"
-                    ]
+                    "value": false
                 },
                 "allow_separate_threads": {
-                    "value": true,
-                    "logging_id": [
-                        "205270444405502"
-                    ]
+                    "value": false
                 },
                 "enable_battery_monitor": {
                     "value": true
@@ -11399,34 +11418,6 @@
                 },
                 "android_selector_button": {
                     "value": false
-                }
-            }
-        },
-        "ig_android_motion_v2_universe": {
-            "params": {
-                "animation_version": {
-                    "value": 1,
-                    "logging_id": [
-                        "1600084733522269"
-                    ]
-                },
-                "pop_duration": {
-                    "value": 350,
-                    "logging_id": [
-                        "1600084733522269"
-                    ]
-                },
-                "push_duration": {
-                    "value": 300,
-                    "logging_id": [
-                        "1600084733522269"
-                    ]
-                },
-                "animation_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "1600084733522269"
-                    ]
                 }
             }
         },
