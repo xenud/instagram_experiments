@@ -348,6 +348,9 @@
                 },
                 "enable_igtv_update_channel_item_fix": {
                     "value": true
+                },
+                "is_mitigation_design_enabled": {
+                    "value": false
                 }
             }
         },
