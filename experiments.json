@@ -4976,6 +4976,9 @@
                 },
                 "is_search_enabled": {
                     "value": false
+                },
+                "is_unified_creation_enabled": {
+                    "value": false
                 }
             }
         },
