@@ -6474,6 +6474,18 @@
                 },
                 "error_report_frequency": {
                     "value": 1
+                },
+                "simple_image_url_empty_is_enabled": {
+                    "value": true
+                },
+                "simple_image_url_empty_sampling_frequency": {
+                    "value": 100
+                },
+                "simple_image_url_null_is_enabled": {
+                    "value": true
+                },
+                "simple_image_url_null_sampling_frequency": {
+                    "value": 10
                 }
             }
         },
