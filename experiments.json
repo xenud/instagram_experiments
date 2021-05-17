@@ -8390,7 +8390,7 @@
                     "value": false
                 },
                 "is_onboarding_api_migration_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
