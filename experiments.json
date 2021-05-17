@@ -724,6 +724,9 @@
                 },
                 "sn_carousel_cache_usage_logging_enabled": {
                     "value": true
+                },
+                "is_post_impression_detection_fix_enabled": {
+                    "value": true
                 }
             }
         },
