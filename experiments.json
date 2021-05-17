@@ -10756,6 +10756,9 @@
                 },
                 "enable_sort_by_ranked_position": {
                     "value": false
+                },
+                "skipped_reel_cooldown": {
+                    "value": -1
                 }
             }
         },
