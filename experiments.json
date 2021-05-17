@@ -727,6 +727,9 @@
                 },
                 "is_post_impression_detection_fix_enabled": {
                     "value": true
+                },
+                "sn_carousel_window_clearing_enabled": {
+                    "value": true
                 }
             }
         },
