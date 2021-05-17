@@ -4913,6 +4913,9 @@
                 },
                 "async_diffing": {
                     "value": false
+                },
+                "default_dispatcher": {
+                    "value": false
                 }
             }
         },
