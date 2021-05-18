@@ -898,16 +898,10 @@
         "ig_iab_new_url_check_for_ssl_error": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_iab_new_url_check_for_ssl_error_gk$public$control$4$1626579C"
-                    ]
+                    "value": true
                 },
                 "goback_fix_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "GK$ig_iab_new_url_check_for_ssl_error_gk$public$control$4$1626579C"
-                    ]
+                    "value": true
                 }
             }
         },
