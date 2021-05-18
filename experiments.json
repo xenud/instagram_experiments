@@ -10336,6 +10336,16 @@
                 }
             }
         },
+        "ig_android_captions_creation": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "is_feed_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_close_friends_attribution_in_direct": {
             "params": {
                 "should_show_close_friends_attribution": {
