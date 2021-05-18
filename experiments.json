@@ -2598,16 +2598,6 @@
                 }
             }
         },
-        "ig_camera_android_multiclass_segmentation": {
-            "params": {
-                "download_model": {
-                    "value": false
-                },
-                "force_prefetch": {
-                    "value": false
-                }
-            }
-        },
         "ig_camera_android_music_reactive_effects": {
             "params": {
                 "allow_fba": {
