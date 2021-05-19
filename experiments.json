@@ -953,7 +953,7 @@
         "ig_story_ads_caption_length_optimization": {
             "params": {
                 "is_caption_sheet_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "use_line_spacing_from_fallbacks": {
                     "value": true
@@ -962,7 +962,7 @@
                     "value": true
                 },
                 "is_sn_caption_sheet_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "is_smart_caption_caption_optimization_enabled": {
                     "value": false
