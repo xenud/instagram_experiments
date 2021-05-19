@@ -7193,7 +7193,7 @@
                     "value": false
                 },
                 "optimizations": {
-                    "value": "{'actions': [], 'config_v2': [{'markers': [31784979, 31784962, 31784974, 23592980], 'optimization': {'type': {'threadAffinity': {'boostedThreads': ['3'], 'enabledCoreConfigs': [4]}}, 'blacklistedInstanceKeys': []}}, {'markers': [31784979, 31784974, 31784962], 'optimization': {'type': {'delayedAnalytics': {'timeoutInMillis': 5000}}, 'blacklistedInstanceKeys': []}}, {'markers': [31784974, 31784962, 31784979], 'optimization': {'type': {'renderThreadBoost': {'priority': -14}}, 'blacklistedInstanceKeys': []}}, {'markers': [719983200], 'optimization': {'type': {'cpuBoost': {'timeout': 5000, 'frequency': 75}}, 'blacklistedInstanceKeys': []}}, {'markers': [719983200], 'optimization': {'type': {'threadBoostByName': {'priority': -14, 'timeoutInMillis': 5000, 'threadName': 'BackgroundLayoutPreparer', 'delayMillis': 10}}, 'blacklistedInstanceKeys': []}}]}"
+                    "value": "{'actions': [], 'config_v2': [{'markers': [31784979, 31784962, 31784974, 23592980], 'optimization': {'type': {'threadAffinity': {'boostedThreads': ['3'], 'enabledCoreConfigs': [4]}}, 'blacklistedInstanceKeys': []}}, {'markers': [31784979, 31784974, 31784962], 'optimization': {'type': {'delayedAnalytics': {'timeoutInMillis': 5000}}, 'blacklistedInstanceKeys': []}}, {'markers': [31784974, 31784962, 31784979], 'optimization': {'type': {'renderThreadBoost': {'priority': -14}}, 'blacklistedInstanceKeys': []}}]}"
                 },
                 "is_enabled": {
                     "value": true
