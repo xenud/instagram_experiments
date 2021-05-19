@@ -1794,6 +1794,13 @@
                 }
             }
         },
+        "ig_android_tokenless_promote": {
+            "params": {
+                "back_handler": {
+                    "value": false
+                }
+            }
+        },
         "ig_biz_android_suggest_biz_infinite_scroll": {
             "params": {
                 "enabled": {
