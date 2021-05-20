@@ -5117,6 +5117,18 @@
                 },
                 "should_include_request_and_session_id": {
                     "value": false
+                },
+                "persistent_fnl_min_count": {
+                    "value": 5
+                },
+                "persistent_fnl_window_seconds": {
+                    "value": 1800
+                },
+                "persistent_snl_percent_min": {
+                    "value": 0.1
+                },
+                "should_log_persistent_fail": {
+                    "value": false
                 }
             }
         },
