@@ -351,6 +351,9 @@
                 },
                 "is_mitigation_design_enabled": {
                     "value": false
+                },
+                "is_short_form_video_delayed_skip_enabled": {
+                    "value": false
                 }
             }
         },
