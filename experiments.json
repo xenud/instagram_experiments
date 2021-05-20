@@ -4007,6 +4007,9 @@
                 },
                 "experiment_value": {
                     "value": false
+                },
+                "is_enabled": {
+                    "value": false
                 }
             }
         },
