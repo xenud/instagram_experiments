@@ -5747,6 +5747,13 @@
                 }
             }
         },
+        "ig_android_zero_sdk": {
+            "params": {
+                "is_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_badging_periodic_refresh": {
             "params": {
                 "use_badging_platform": {
