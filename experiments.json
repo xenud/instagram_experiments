@@ -9352,6 +9352,13 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_audiosamplerateconfig": {
+            "params": {
+                "foundation_enabled": {
+                    "value": 1
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_audiosendsidebweconfig": {
             "params": {
                 "audio_sendside_bwe": {
