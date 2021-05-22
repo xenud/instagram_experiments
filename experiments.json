@@ -3884,6 +3884,15 @@
         },
         "ig_android_direct_thread_first_interop_send_tooltip": {
             "params": {
+                "experiment_value": {
+                    "value": false
+                },
+                "upgrade_value": {
+                    "value": false
+                },
+                "is_enabled": {
+                    "value": false
+                },
                 "upgrade_show_count": {
                     "value": 1
                 },
