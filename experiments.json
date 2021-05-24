@@ -5035,6 +5035,18 @@
                 },
                 "deeplink_external_urls_to_tab": {
                     "value": false
+                },
+                "respect_tooltip_frequency_framework": {
+                    "value": false
+                },
+                "deeper_in_funnel_tooltip_index": {
+                    "value": 5
+                },
+                "deeper_in_funnel_tooltip_dwell_time_ms": {
+                    "value": 60000
+                },
+                "show_deeper_in_funnel_tooltip": {
+                    "value": false
                 }
             }
         },
