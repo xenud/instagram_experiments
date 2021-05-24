@@ -1800,7 +1800,7 @@
         "ig_android_tokenless_promote": {
             "params": {
                 "back_handler": {
-                    "value": false
+                    "value": true
                 }
             }
         },
