@@ -9516,16 +9516,6 @@
                 }
             }
         },
-        "ig_vc_rsys_overlayconfig_preferredcaptureconfig": {
-            "params": {
-                "height_px": {
-                    "value": -1
-                },
-                "width_px": {
-                    "value": -1
-                }
-            }
-        },
         "ig_vc_rsys_overlayconfig_r20androidshareeglcontextconfig": {
             "params": {
                 "use_for_decoding": {
