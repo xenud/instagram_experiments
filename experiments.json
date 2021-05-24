@@ -9138,6 +9138,13 @@
                 }
             }
         },
+        "ig_android_vc_cowatch_igtv_tab": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_vc_cowatch_interop_upsell": {
             "params": {
                 "is_enabled": {
