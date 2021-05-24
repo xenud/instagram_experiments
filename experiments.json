@@ -9419,6 +9419,16 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_openh264encoderconfig": {
+            "params": {
+                "openh264_fix_overshooting": {
+                    "value": 0
+                },
+                "max_qp": {
+                    "value": 51
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_opusencoderconfig": {
             "params": {
                 "enable_dtx": {
