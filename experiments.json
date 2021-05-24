@@ -3085,6 +3085,9 @@
                 },
                 "should_expire_drafts": {
                     "value": false
+                },
+                "should_send_notification": {
+                    "value": false
                 }
             }
         },
