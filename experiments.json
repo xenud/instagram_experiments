@@ -9519,10 +9519,10 @@
         "ig_vc_rsys_overlayconfig_preferredcaptureconfig": {
             "params": {
                 "height_px": {
-                    "value": 360
+                    "value": -1
                 },
                 "width_px": {
-                    "value": 360
+                    "value": -1
                 }
             }
         },
