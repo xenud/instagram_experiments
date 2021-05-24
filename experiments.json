@@ -3088,6 +3088,9 @@
                 },
                 "should_send_notification": {
                     "value": false
+                },
+                "should_send_notification_in_1_minute": {
+                    "value": false
                 }
             }
         },
