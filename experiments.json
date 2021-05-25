@@ -3786,16 +3786,6 @@
                 }
             }
         },
-        "ig_android_direct_send_mqtt_timeout_fix": {
-            "params": {
-                "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "244498407358195"
-                    ]
-                }
-            }
-        },
         "ig_android_direct_share_sheet_logging_rewrite": {
             "params": {
                 "is_enabled": {
