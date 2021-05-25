@@ -699,19 +699,19 @@
                     "value": 5
                 },
                 "sn_cards_prefetch_limit": {
-                    "value": 1
+                    "value": 2
                 },
                 "sn_prefetch_after_opt_in_index": {
-                    "value": true
+                    "value": false
                 },
                 "sn_aggressive_cache_removal_enabled": {
                     "value": true
                 },
                 "sn_interactive_models_cache_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "sn_carousel_window_items_right": {
-                    "value": 0
+                    "value": 2
                 },
                 "sn_carousel_window_items_left": {
                     "value": 0
