@@ -8135,7 +8135,7 @@
         "ig_android_live_stall_detector": {
             "params": {
                 "stall_detector_provider_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "detector_epoch_report_interval_seconds": {
                     "value": 10.0
@@ -8150,7 +8150,7 @@
                     "value": true
                 },
                 "transport_stall_detector_provider_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "sdk_timer_use_separate_thread": {
                     "value": false
