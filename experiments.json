@@ -5372,6 +5372,9 @@
         },
         "ig_android_igtv_creation": {
             "params": {
+                "is_live_camera_enabled": {
+                    "value": false
+                },
                 "is_drafts_enabled": {
                     "value": true
                 }
