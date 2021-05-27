@@ -7220,7 +7220,7 @@
                     "value": true
                 },
                 "tcp_probe_delay_ms": {
-                    "value": 200
+                    "value": 500
                 },
                 "receive_batch_size": {
                     "value": 10
