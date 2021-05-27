@@ -9190,6 +9190,12 @@
                 },
                 "audio_drop_in_enabled": {
                     "value": false
+                },
+                "dropin_dialog_count": {
+                    "value": 3
+                },
+                "dropin_dialog_accept_count": {
+                    "value": 0
                 }
             }
         },
