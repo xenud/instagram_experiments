@@ -9512,6 +9512,13 @@
                 }
             }
         },
+        "ig_vc_rsys_overlayconfig_r20deriveplossfromfractionlossconfig": {
+            "params": {
+                "derive_ploss_from_fraction_loss": {
+                    "value": 1
+                }
+            }
+        },
         "ig_vc_rsys_overlayconfig_rsysfoundationsconfig": {
             "params": {
                 "solo_send_disabled": {
