@@ -4701,10 +4701,7 @@
         "interop_ig_eligibility_qe_launcher": {
             "params": {
                 "has_interop": {
-                    "value": true,
-                    "logging_id": [
-                        "795878317879335"
-                    ]
+                    "value": true
                 }
             }
         },
