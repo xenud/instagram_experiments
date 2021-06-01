@@ -7229,7 +7229,7 @@
                     "value": false
                 },
                 "tcp_fallback_quic_backoff_ms": {
-                    "value": 0
+                    "value": 30000
                 }
             }
         },
