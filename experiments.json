@@ -2121,10 +2121,7 @@
         "ig_smb_android_allow_empty_fb_page_list_launcher": {
             "params": {
                 "is_connect_to_fb_empty_list_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "3641887039207464"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -2138,10 +2135,7 @@
         "ig_smb_android_category_screen_done_cta_launcher": {
             "params": {
                 "is_category_screen_done_cta_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "698754044406496"
-                    ]
+                    "value": true
                 }
             }
         },
