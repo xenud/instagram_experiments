@@ -4729,13 +4729,6 @@
                 }
             }
         },
-        "scroll_to_top_on_search_text_changed": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_audio_page_migration": {
             "params": {
                 "is_enabled": {
