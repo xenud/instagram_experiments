@@ -3243,6 +3243,13 @@
                 }
             }
         },
+        "direct_inbox_search_cap_section": {
+            "params": {
+                "limit": {
+                    "value": -1
+                }
+            }
+        },
         "direct_interop_server_content_kill_switch": {
             "params": {
                 "is_enabled_android": {
