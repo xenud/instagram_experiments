@@ -3385,16 +3385,6 @@
                 }
             }
         },
-        "direct_reshare_sheet_ig_users_order_type": {
-            "params": {
-                "default_value": {
-                    "value": 0
-                },
-                "kill_switch": {
-                    "value": 2
-                }
-            }
-        },
         "direct_search_interop_eligibility_check": {
             "params": {
                 "upgrade_value": {
