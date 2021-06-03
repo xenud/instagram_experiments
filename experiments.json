@@ -2118,6 +2118,13 @@
                 }
             }
         },
+        "ig_smb_android_allow_click_in_suggest_business_launcher": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                }
+            }
+        },
         "ig_smb_android_allow_empty_fb_page_list_launcher": {
             "params": {
                 "is_connect_to_fb_empty_list_enabled": {
@@ -8406,9 +8413,6 @@
                 },
                 "limit_latest_transactions_shown": {
                     "value": 2
-                },
-                "is_payout_info_sections_expandable": {
-                    "value": false
                 },
                 "is_download_transaction_history_enabled": {
                     "value": false
