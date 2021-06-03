@@ -8053,7 +8053,7 @@
                     "value": false
                 },
                 "disable_on_camera2_only": {
-                    "value": false
+                    "value": true
                 }
             }
         },
