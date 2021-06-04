@@ -5227,16 +5227,6 @@
                 }
             }
         },
-        "ig_android_main_feed_load_more_memory_leak_fix": {
-            "params": {
-                "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "2919161288328928"
-                    ]
-                }
-            }
-        },
         "ig_android_mainfeed_lightweight_pill_1": {
             "params": {
                 "lightweight_refresh_on_app_background": {
