@@ -4702,13 +4702,6 @@
                 }
             }
         },
-        "interop_ig_eligibility_qe_launcher": {
-            "params": {
-                "has_interop": {
-                    "value": true
-                }
-            }
-        },
         "interop_ig_whitelist_gk_launcher": {
             "params": {
                 "enabled": {
