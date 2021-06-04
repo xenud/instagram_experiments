@@ -10063,6 +10063,13 @@
                 }
             }
         },
+        "ig_shopping_android_size_chart": {
+            "params": {
+                "size_charts_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_shopping_android_sticky_cta": {
             "params": {
                 "is_enabled": {
