@@ -1872,10 +1872,10 @@
                     "value": false
                 },
                 "android_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "ios_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
