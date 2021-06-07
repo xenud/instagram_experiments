@@ -4304,19 +4304,19 @@
                     "value": 86400
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "rendering_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "expose_on_client": {
                     "value": false
                 },
                 "fetch_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "pw_iic_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "banner_loading_delay_in_millis": {
                     "value": 0
