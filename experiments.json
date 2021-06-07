@@ -11961,16 +11961,6 @@
                 }
             }
         },
-        "ig_android_streaming_upload_kill_get": {
-            "params": {
-                "enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "808405426452638"
-                    ]
-                }
-            }
-        },
         "ig_android_tune_video_related_params_launcher": {
             "params": {
                 "enable_codec_reuse": {
