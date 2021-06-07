@@ -10406,6 +10406,9 @@
                 },
                 "is_feed_enabled": {
                     "value": false
+                },
+                "is_a11y_settings_page_enabled": {
+                    "value": false
                 }
             }
         },
