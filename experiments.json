@@ -4303,6 +4303,18 @@
                 "cache_duration_in_seconds": {
                     "value": 86400
                 },
+                "is_enabled": {
+                    "value": false
+                },
+                "rendering_enabled": {
+                    "value": false
+                },
+                "fetch_enabled": {
+                    "value": false
+                },
+                "pw_iic_enabled": {
+                    "value": false
+                },
                 "banner_loading_delay_in_millis": {
                     "value": 0
                 }
