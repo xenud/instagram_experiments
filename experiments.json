@@ -10783,6 +10783,12 @@
                 "debounce_ms": {
                     "value": 100
                 },
+                "transfer_latest_item_timestamp_for_direct_mentions": {
+                    "value": false,
+                    "logging_id": [
+                        "4269496756442939"
+                    ]
+                },
                 "start_reel_at_fully_unseen_items": {
                     "value": false
                 },
