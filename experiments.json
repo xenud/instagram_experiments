@@ -10921,7 +10921,7 @@
         "ig_android_story_gallery_scale": {
             "params": {
                 "enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
