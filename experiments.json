@@ -3095,13 +3095,6 @@
                 }
             }
         },
-        "ig_android_stories_remixes": {
-            "params": {
-                "blocked_decoders": {
-                    "value": ""
-                }
-            }
-        },
         "ig_android_stories_text_drawable_alignment_rtl": {
             "params": {
                 "enabled": {
@@ -7279,6 +7272,13 @@
                 },
                 "blacklist": {
                     "value": "{\"cpuBoost\":[{\"deviceBrand\":null,\"deviceModel\":\"ASUS_X018D\",\"deviceChipset\":null,\"osVersion\":null,\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"ASUS_X008DB\",\"deviceChipset\":null,\"osVersion\":null,\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"ASUS_X008DC\",\"deviceChipset\":null,\"osVersion\":null,\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"ASUS_X008D\",\"deviceChipset\":null,\"osVersion\":null,\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"ASUS_X008DA\",\"deviceChipset\":null,\"osVersion\":null,\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"C2104\",\"deviceChipset\":null,\"osVersion\":\"17\",\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":null,\"deviceModel\":\"C2105\",\"deviceChipset\":null,\"osVersion\":\"17\",\"yearClass\":null,\"appId\":null,\"appVersion\":null},{\"deviceBrand\":\"samsung\",\"deviceModel\":null,\"deviceChipset\":\"sdm845\",\"osVersion\":\"28\",\"yearClass\":null,\"appId\":null,\"appVersion\":null}],\"gpuBoost\":[],\"delayedGC\":[],\"layoutPreinflation\":[],\"threadAffinity\":[]}"
+                }
+            }
+        },
+        "ig_android_navigation_as_critical_path": {
+            "params": {
+                "is_enabled": {
+                    "value": false
                 }
             }
         },
