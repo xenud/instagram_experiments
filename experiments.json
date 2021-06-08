@@ -10499,13 +10499,6 @@
                 }
             }
         },
-        "ig_android_instagram_logo_alignment": {
-            "params": {
-                "centered": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_interactive_drawable_bounds_fix": {
             "params": {
                 "is_enabled": {
