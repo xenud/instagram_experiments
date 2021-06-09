@@ -8308,7 +8308,7 @@
         "ig_android_igtv_revshare_creation": {
             "params": {
                 "min_video_length": {
-                    "value": 60
+                    "value": 61
                 },
                 "enabled": {
                     "value": false
