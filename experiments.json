@@ -3656,14 +3656,14 @@
         "ig_android_direct_quoted_reply_consumption": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
         "ig_android_direct_quoted_reply_launcher": {
             "params": {
                 "kill_switch": {
-                    "value": false
+                    "value": true
                 }
             }
         },
