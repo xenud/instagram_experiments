@@ -9522,6 +9522,9 @@
                 },
                 "enable_media_stats": {
                     "value": -1
+                },
+                "should_add_on_use_spawn": {
+                    "value": 0
                 }
             }
         },
