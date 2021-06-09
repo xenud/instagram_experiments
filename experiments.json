@@ -9143,7 +9143,7 @@
                     "value": false
                 },
                 "countdown_time": {
-                    "value": 3
+                    "value": 0
                 },
                 "thread_presence_ui_enabled": {
                     "value": false
@@ -9182,7 +9182,7 @@
                     "value": false
                 },
                 "dropin_dialog_count": {
-                    "value": 3
+                    "value": 0
                 },
                 "dropin_dialog_accept_count": {
                     "value": 0
