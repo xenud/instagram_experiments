@@ -4322,7 +4322,7 @@
         "ig_direct_e2e_send_waterfall_sample_rate_config": {
             "params": {
                 "item_seen_sample_rate": {
-                    "value": 0.0001
+                    "value": 0.0
                 },
                 "default_message_send_sample_rate": {
                     "value": 0.01
