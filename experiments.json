@@ -5343,6 +5343,21 @@
                 }
             }
         },
+        "ig_main_feed_lightweight_nondisruptive_warm_start": {
+            "params": {
+                "nondisruptive_lightweight_request_condition": {
+                    "value": "never",
+                    "logging_id": [
+                        "231858455082184"
+                    ]
+                },
+                "new_feed_posts_exist_check_bumpable_posts": {
+                    "logging_id": [
+                        "231858455082184"
+                    ]
+                }
+            }
+        },
         "ig_split_head_load": {
             "params": {
                 "show_shimmer_on_cold_start": {
