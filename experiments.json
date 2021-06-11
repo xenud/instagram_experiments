@@ -9446,6 +9446,9 @@
                 "openh264_fix_overshooting": {
                     "value": 0
                 },
+                "cabac_setting": {
+                    "value": 0
+                },
                 "max_qp": {
                     "value": 51
                 }
