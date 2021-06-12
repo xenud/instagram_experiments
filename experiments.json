@@ -12003,10 +12003,16 @@
         "ig_android_upload_deprecate_vp8_encoder": {
             "params": {
                 "deprecate_vp8": {
-                    "value": false
+                    "value": true,
+                    "logging_id": [
+                        "293861752421975"
+                    ]
                 },
                 "deprecate_vp8_reel_image_regions": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "293861752421975"
+                    ]
                 }
             }
         },
