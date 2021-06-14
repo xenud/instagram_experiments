@@ -7214,6 +7214,9 @@
                 "tcp_fallback_mode": {
                     "value": "auto"
                 },
+                "preconnect_hosts": {
+                    "value": "i.instagram.com"
+                },
                 "event_loop_thread_priority": {
                     "value": 0
                 },
