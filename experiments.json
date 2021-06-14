@@ -7243,6 +7243,12 @@
                 },
                 "tcp_fallback_quic_backoff_ms": {
                     "value": 30000
+                },
+                "tls13_socket_background_io": {
+                    "value": false
+                },
+                "tls13_socket_resumption": {
+                    "value": false
                 }
             }
         },
