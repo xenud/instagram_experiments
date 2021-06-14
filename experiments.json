@@ -6151,7 +6151,7 @@
         "ig_android_big_foot_foreground_external_provider_config": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "folder_depth_limit": {
                     "value": 1
