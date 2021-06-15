@@ -10846,25 +10846,6 @@
                 }
             }
         },
-        "ig_android_stories_tray_csr": {
-            "params": {
-                "is_enabled": {
-                    "value": false
-                },
-                "include_api_requests": {
-                    "value": false
-                },
-                "use_last_session_bandwidth": {
-                    "value": false
-                },
-                "enable_sort_by_ranked_position": {
-                    "value": false
-                },
-                "skipped_reel_cooldown": {
-                    "value": -1
-                }
-            }
-        },
         "ig_android_stories_tray_pagination_killswitch": {
             "params": {
                 "is_enabled": {
