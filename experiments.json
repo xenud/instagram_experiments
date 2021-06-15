@@ -12095,6 +12095,28 @@
                 }
             }
         },
+        "ig_android_video_prefetch_requests": {
+            "params": {
+                "enable_cancel_prefetch_request": {
+                    "value": false,
+                    "logging_id": [
+                        "4120871264656525"
+                    ]
+                },
+                "enable_update_prefetch_request": {
+                    "value": true,
+                    "logging_id": [
+                        "4120871264656525"
+                    ]
+                },
+                "enable_cancel_prefetch_request_old_api": {
+                    "value": false,
+                    "logging_id": [
+                        "4120871264656525"
+                    ]
+                }
+            }
+        },
         "ig_android_video_prefetch_segment_based": {
             "params": {
                 "is_enabled": {
