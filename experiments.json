@@ -1045,7 +1045,7 @@
                     "value": 900000
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "regular_enable_batching": {
                     "value": true
