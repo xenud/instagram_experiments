@@ -6937,13 +6937,6 @@
                 }
             }
         },
-        "ig_android_launcher_prefetch_scheduler_graph_source": {
-            "params": {
-                "fix_explore_graph": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_launcher_prefetchscheduler_fix_stories_name": {
             "params": {
                 "is_enabled": {
