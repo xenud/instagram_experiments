@@ -2261,13 +2261,6 @@
                 }
             }
         },
-        "ig_android_arengine_igl_ogl_state_cache": {
-            "params": {
-                "igl_ogl_state_cache_enabled": {
-                    "value": false
-                }
-            }
-        },
         "ig_android_arrow_brush": {
             "params": {
                 "enabled": {
