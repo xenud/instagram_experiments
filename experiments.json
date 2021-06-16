@@ -2666,6 +2666,19 @@
                 }
             }
         },
+        "ig_camera_android_smart_gallery": {
+            "params": {
+                "is_enabled": {
+                    "value": false
+                },
+                "is_layout_enabled": {
+                    "value": false
+                },
+                "is_option_state_cached": {
+                    "value": false
+                }
+            }
+        },
         "ig_camera_android_spark_cancellation": {
             "params": {
                 "cancel_prefetch": {
