@@ -9684,8 +9684,7 @@
         "ig_mobile_interest_search_phase_2_launcher": {
             "params": {
                 "enable_keywords_in_see_more": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_interest_search_targeting_gk|1283724683|T"
+                    "value": false
                 },
                 "should_fetch_keywords_bootstrap": {
                     "value": false
