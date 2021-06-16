@@ -6531,13 +6531,13 @@
                     "value": true
                 },
                 "simple_image_url_empty_sampling_frequency": {
-                    "value": 100
+                    "value": 100000
                 },
                 "simple_image_url_null_is_enabled": {
                     "value": true
                 },
                 "simple_image_url_null_sampling_frequency": {
-                    "value": 10
+                    "value": 10000
                 }
             }
         },
