@@ -12668,16 +12668,16 @@
         "ig_fundraiser_feed_creation": {
             "params": {
                 "feed_composer_enable_fundraiser_row": {
-                    "value": false
+                    "value": true
                 },
                 "feed_refresh_check_fundraiser_deletion": {
-                    "value": false
+                    "value": true
                 },
                 "feed_composer_show_in_review_alert": {
                     "value": false
                 },
                 "account_settings_enable_fundraiser_row": {
-                    "value": false
+                    "value": true
                 }
             }
         },
