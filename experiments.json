@@ -9465,7 +9465,7 @@
         "ig_vc_rsys_overlayconfig_openh264encoderconfig": {
             "params": {
                 "openh264_fix_overshooting": {
-                    "value": 1
+                    "value": 0
                 },
                 "cabac_setting": {
                     "value": 0
