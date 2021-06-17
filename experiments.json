@@ -12436,7 +12436,8 @@
         "ig_android_commer_cover_launcher": {
             "params": {
                 "should_use_comment_cover": {
-                    "value": true
+                    "value": true,
+                    "canary_id": "l|GK|ig_comment_cover_client_new_content_gk|999081316|T"
                 },
                 "should_use_new_classifier": {
                     "value": true
