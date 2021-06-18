@@ -4430,9 +4430,6 @@
                 "is_stories_share_enabled": {
                     "value": false
                 },
-                "is_link_enabled": {
-                    "value": false
-                },
                 "is_selfie_sticker_enabled": {
                     "value": true
                 },
