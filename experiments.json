@@ -7261,6 +7261,9 @@
                 },
                 "tls13_socket_resumption": {
                     "value": false
+                },
+                "close_tcp_probe_connection": {
+                    "value": true
                 }
             }
         },
