@@ -3023,7 +3023,8 @@
                     "value": false
                 },
                 "is_review_thumbnail_tray_enabled": {
-                    "value": true
+                    "value": true,
+                    "canary_id": "l|GK|ig_android_reels_clips_editor_thumbnail_tray|925141836|T"
                 },
                 "is_new_precapture_ui_enabled": {
                     "value": false
