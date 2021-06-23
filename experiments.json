@@ -2595,7 +2595,7 @@
                     "value": 72
                 },
                 "category_effects_cache_hours": {
-                    "value": 24
+                    "value": 48
                 },
                 "effect_tray_cache_hours": {
                     "value": 3
