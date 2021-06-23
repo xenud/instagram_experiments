@@ -322,6 +322,9 @@
                 "can_skip_ad": {
                     "value": true
                 },
+                "is_delayed_skip_enabled": {
+                    "value": false
+                },
                 "is_swipe_up_touch_slop_enabled": {
                     "value": true
                 },
