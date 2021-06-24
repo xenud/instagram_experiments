@@ -4988,16 +4988,16 @@
         "ig_android_guides_creation": {
             "params": {
                 "places_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "products_enabled": {
                     "value": true
                 },
                 "is_drafts_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "allow_old_one_item_guides": {
                     "value": true
