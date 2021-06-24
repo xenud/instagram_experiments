@@ -5003,7 +5003,7 @@
                     "value": true
                 },
                 "is_save_collection_entrypoint_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "is_search_enabled": {
                     "value": false
