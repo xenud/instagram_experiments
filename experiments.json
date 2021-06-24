@@ -9147,7 +9147,7 @@
         "ig_android_vc_call_screen_capture": {
             "params": {
                 "is_enabled": {
-                    "value": true
+                    "value": false
                 }
             }
         },
