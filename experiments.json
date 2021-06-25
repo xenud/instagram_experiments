@@ -752,6 +752,9 @@
                 },
                 "is_post_impression_detection_seek_to_end_enabled": {
                     "value": false
+                },
+                "sn_stories_use_new_api": {
+                    "value": false
                 }
             }
         },
