@@ -4991,16 +4991,16 @@
         "ig_android_guides_creation": {
             "params": {
                 "places_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "products_enabled": {
                     "value": true
                 },
                 "is_drafts_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "allow_old_one_item_guides": {
                     "value": true
