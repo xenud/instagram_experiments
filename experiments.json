@@ -3217,6 +3217,9 @@
                 "consumption_enabled": {
                     "value": true
                 },
+                "creation_enabled": {
+                    "value": false
+                },
                 "postcapture_download_enabled": {
                     "value": false
                 },
