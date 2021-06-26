@@ -755,6 +755,9 @@
                 },
                 "sn_stories_use_new_api": {
                     "value": false
+                },
+                "sn_feed_use_new_api": {
+                    "value": false
                 }
             }
         },
