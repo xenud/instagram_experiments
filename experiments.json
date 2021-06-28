@@ -11913,6 +11913,25 @@
                 }
             }
         },
+        "ig_android_merging_vps_followup_launcher": {
+            "params": {
+                "enable_hero_manager": {
+                    "value": false
+                },
+                "main_thread_surface_handler": {
+                    "value": false
+                },
+                "enable_prefetch_bg_default_priority": {
+                    "value": false
+                },
+                "process_event_callback_on_ui_thread": {
+                    "value": false
+                },
+                "enable_main_thread_callback": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_mi_extractor_fix": {
             "params": {
                 "enable_descriptor_fix": {
