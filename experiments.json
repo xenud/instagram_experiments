@@ -3566,7 +3566,7 @@
                     "value": false
                 },
                 "state_store_thread_list_fix_enabled": {
-                    "value": true
+                    "value": false
                 },
                 "reuse_legacy_capabilities_instance_enabled": {
                     "value": true
