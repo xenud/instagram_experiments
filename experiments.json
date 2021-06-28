@@ -11561,6 +11561,13 @@
                 }
             }
         },
+        "ig_android_motion_universe": {
+            "params": {
+                "modal_activity_faster_push_enabled": {
+                    "value": true
+                }
+            }
+        },
         "ig_app_speed_mediauri_parse": {
             "params": {
                 "is_avoid_alloc_enabled": {
