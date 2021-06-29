@@ -1453,6 +1453,9 @@
                 },
                 "nav_check_with_module_composer_focus_status": {
                     "value": false
+                },
+                "gnv_generic_click_enabled": {
+                    "value": false
                 }
             }
         },
