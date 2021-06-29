@@ -52,6 +52,16 @@
                 }
             }
         },
+        "ig_android_ads_igexecutor_launcher": {
+            "params": {
+                "landscape_task_priority": {
+                    "value": 3
+                },
+                "enable_executor_for_landscape": {
+                    "value": false
+                }
+            }
+        },
         "ig_android_ads_seen_state_explore": {
             "params": {
                 "is_enabled": {
