@@ -3082,6 +3082,9 @@
             "params": {
                 "enabled": {
                     "value": false
+                },
+                "primer_action_button_allow_below_deny": {
+                    "value": false
                 }
             }
         },
