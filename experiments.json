@@ -9423,11 +9423,20 @@
         },
         "ig_vc_rsys_overlayconfig_edgerayrsysconfig": {
             "params": {
+                "discovery_enabled": {
+                    "value": 0
+                },
+                "fall_back_to_turn_discovery": {
+                    "value": 0
+                },
                 "detect_default_apn": {
                     "value": 1
                 },
                 "slow_relay_allocation": {
                     "value": 1
+                },
+                "connection_enabled": {
+                    "value": 0
                 }
             }
         },
