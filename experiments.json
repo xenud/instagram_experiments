@@ -6761,121 +6761,121 @@
                 "reel_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "offpeak_gcpu_start_hr": {
                     "value": 22,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_prefetch_from_client": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "is_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "server_fetch_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "offpeak_gcpu_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_wait_for_media_rendered": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "explore_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "skip_prefetch_at_peak_gcpu": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "reel_prefetch_from_client": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_num_carousel": {
                     "value": 2,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_num_video": {
                     "value": 6,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "offpeak_gcpu_end_hr": {
                     "value": 12,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "reel_prefetch_num": {
                     "value": 5,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "randomize_offpeak_schedule": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "clip_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "video_prefetch_queue_size": {
                     "value": 100,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "video_prefetch_queue_override": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "main_feed_server_fallback": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
@@ -6901,19 +6901,19 @@
                 "include_is_prefetch": {
                     "value": true,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "is_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "cache_expire_in_hr": {
                     "value": 12,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
@@ -6997,7 +6997,7 @@
                 "is_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
@@ -7742,7 +7742,7 @@
                 "use_video_executor_v2": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
@@ -11658,37 +11658,37 @@
                 "avoid_on_cell_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "cellular_hint_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "intentional_avoid_on_cell_bitrate_cap": {
                     "value": 0,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "unintentional_avoid_on_cell_bitrate_cap": {
                     "value": 0,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "unintentional_avoid_on_cell_quality_cap": {
                     "value": 0,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "intentional_avoid_on_cell_quality_cap": {
                     "value": 0,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
@@ -11902,19 +11902,19 @@
                 "fill_buffer_hooks_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "free_node_hooks_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 },
                 "byte_buffer_null_check_hooks": {
                     "value": false,
                     "logging_id": [
-                        "GK$igpf_2021h1_lvl3_mconsumption_holdout$holdout$testing$4$1760709T"
+                        "GK$1760709T"
                     ]
                 }
             }
