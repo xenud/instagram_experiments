@@ -12687,8 +12687,7 @@
         "ig_fundraiser_feed_consumption": {
             "params": {
                 "feed_enable_donate_pill": {
-                    "value": true,
-                    "canary_id": "l|GK|ig_social_impact_working_group|355505005|T"
+                    "value": true
                 },
                 "feed_enable_metatext": {
                     "value": true
