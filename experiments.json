@@ -9990,6 +9990,9 @@
                 "is_storefront_prefetch_enabled": {
                     "value": true
                 },
+                "is_drops_collection_enabled": {
+                    "value": false
+                },
                 "open_pdp_with_product_object": {
                     "value": true
                 }
