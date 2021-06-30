@@ -9228,6 +9228,9 @@
                 },
                 "dropin_dialog_accept_count": {
                     "value": 0
+                },
+                "audio_unified_talk_now": {
+                    "value": false
                 }
             }
         },
