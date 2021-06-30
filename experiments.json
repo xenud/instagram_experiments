@@ -6098,7 +6098,7 @@
                 "enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$android_memory_timeline_bitmaps$ig_prod$control$4$1703825C"
+                        "GK$1703825C"
                     ]
                 },
                 "include_annotations": {
@@ -6296,7 +6296,7 @@
                 "pass": {
                     "value": false,
                     "logging_id": [
-                        "GK$ig_android_cpu_boost_production_holdout$Blacklisted Devices$control$4$1229551C"
+                        "GK$1229551C"
                     ]
                 }
             }
@@ -7309,7 +7309,7 @@
                 "is_cpu_boost_enabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$ig_android_cpu_boost_production_holdout$Blacklisted Devices$control$4$1229551C"
+                        "GK$1229551C"
                     ]
                 },
                 "is_graceful_error_handling_enabled": {
