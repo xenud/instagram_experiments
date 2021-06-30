@@ -2069,10 +2069,7 @@
         "ig_android_promote_payment_guidance": {
             "params": {
                 "is_payment_guidance_enabled": {
-                    "value": false,
-                    "logging_id": [
-                        "1480315652151528"
-                    ]
+                    "value": false
                 }
             }
         },
@@ -5740,10 +5737,7 @@
         "ig_android_resurrected_reel_post_notif_actions_launcher": {
             "params": {
                 "show_viewstory_viewprofile_notif_actions": {
-                    "value": true,
-                    "logging_id": [
-                        "2738261833126394"
-                    ]
+                    "value": true
                 }
             }
         },
@@ -12372,10 +12366,7 @@
         "ig_android_vc_get_sesseion_post_account_switch": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "4006142286072134"
-                    ]
+                    "value": true
                 }
             }
         },
