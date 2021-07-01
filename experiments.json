@@ -9231,6 +9231,9 @@
                 },
                 "audio_unified_talk_now": {
                     "value": false
+                },
+                "presence_head_tooltip_count": {
+                    "value": 7
                 }
             }
         },
