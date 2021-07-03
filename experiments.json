@@ -5222,7 +5222,7 @@
                     "value": 31556952
                 },
                 "cold_start_load_size": {
-                    "value": 5
+                    "value": 4
                 },
                 "enable_cold_start": {
                     "value": true
