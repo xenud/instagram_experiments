@@ -6280,7 +6280,7 @@
         "ig_android_colorfilteralpha_tint": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
