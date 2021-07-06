@@ -5142,7 +5142,7 @@
                     "value": false
                 },
                 "is_overscroll_on_end_item_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
