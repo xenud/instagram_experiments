@@ -6002,7 +6002,7 @@
                 "profile_triggers_disabled": {
                     "value": false,
                     "logging_id": [
-                        "GK$ig_qp_profile_trigger_investigation$public$control$4$1445169C"
+                        "GK$1445169C"
                     ]
                 }
             }
@@ -7384,7 +7384,7 @@
                 "is_enabled": {
                     "value": true,
                     "logging_id": [
-                        "GK$ig_android_power_metrics$public$testing$4$1297803T"
+                        "GK$1297803T"
                     ]
                 }
             }
@@ -10822,7 +10822,7 @@
                 "use_app_locale": {
                     "value": true,
                     "logging_id": [
-                        "GK$android_karaoke_captions_language_hint$public$testing$4$1692601T"
+                        "GK$1692601T"
                     ]
                 },
                 "should_save_debug_audio": {
@@ -11155,7 +11155,7 @@
                 "is_enabled": {
                     "value": true,
                     "logging_id": [
-                        "GK$ig_threads_android_inbox_pull_to_refresh$public$testing$4$1698426T"
+                        "GK$1698426T"
                     ]
                 },
                 "max_refresh_duration_ms": {
