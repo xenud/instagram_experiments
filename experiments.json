@@ -10060,8 +10060,7 @@
         "ig_shop_tab_wishlist_in_nav_bar": {
             "params": {
                 "is_enabled": {
-                    "value": true,
-                    "canary_id": "l|GK|co_affiliate_test_users_ig_django|2438895924|T"
+                    "value": true
                 }
             }
         },
