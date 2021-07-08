@@ -8333,8 +8333,7 @@
         "ig_android_geo_gating": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_geo_gating|620707428|T"
+                    "value": false
                 }
             }
         },
