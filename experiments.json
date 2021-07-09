@@ -412,7 +412,7 @@
         "ig_android_music_changes_nux": {
             "params": {
                 "music_changes_nux_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
