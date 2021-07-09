@@ -412,7 +412,8 @@
         "ig_android_music_changes_nux": {
             "params": {
                 "music_changes_nux_enabled": {
-                    "value": true
+                    "value": false,
+                    "canary_id": "l|GK|ig_music_access_changes_nux|3954083239|T"
                 }
             }
         },
