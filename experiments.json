@@ -5228,6 +5228,12 @@
                 },
                 "cold_start_media_age_hours": {
                     "value": 24
+                },
+                "enable_feed_recs": {
+                    "value": true
+                },
+                "should_prepend": {
+                    "value": false
                 }
             }
         },
