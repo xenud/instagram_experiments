@@ -7352,6 +7352,16 @@
                 }
             }
         },
+        "ig_android_no_space_left_fix_launcher": {
+            "params": {
+                "use_all_available_space": {
+                    "value": true
+                },
+                "workspace_videosize_ratio": {
+                    "value": 1.5
+                }
+            }
+        },
         "ig_android_pending_actions_manager_user_session_leak": {
             "params": {
                 "fix_enabled": {
