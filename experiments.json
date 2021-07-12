@@ -10346,7 +10346,7 @@
                     "value": 43200000
                 },
                 "feed_cache_duration_ms": {
-                    "value": 3600000
+                    "value": 86400000
                 },
                 "skip_prefetch_eligibility_check_on_tab": {
                     "value": true
