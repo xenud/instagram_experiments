@@ -6290,6 +6290,16 @@
                 }
             }
         },
+        "ig_android_cover_frame_extraction": {
+            "params": {
+                "enable_default_cover_frame_feed": {
+                    "value": true,
+                    "logging_id": [
+                        "376940550447585"
+                    ]
+                }
+            }
+        },
         "ig_android_cpu_boost_production_holdout": {
             "params": {
                 "pass": {
