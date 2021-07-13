@@ -5736,7 +5736,10 @@
         "ig_android_resurrected_reel_post_notif_actions_launcher": {
             "params": {
                 "show_viewstory_viewprofile_notif_actions": {
-                    "value": true
+                    "value": true,
+                    "logging_id": [
+                        "2738261833126394"
+                    ]
                 }
             }
         },
