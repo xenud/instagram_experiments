@@ -7404,10 +7404,7 @@
                     "value": false
                 },
                 "is_enabled": {
-                    "value": true,
-                    "logging_id": [
-                        "GK$1297803T"
-                    ]
+                    "value": false
                 }
             }
         },
