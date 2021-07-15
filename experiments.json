@@ -2597,7 +2597,7 @@
         "ig_camera_android_improved_stop_recording": {
             "params": {
                 "use_improved_stop_recording": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -2691,6 +2691,13 @@
                 }
             }
         },
+        "ig_camera_android_save_jpeg_exif_metadata": {
+            "params": {
+                "save_metadata": {
+                    "value": true
+                }
+            }
+        },
         "ig_camera_android_smart_gallery": {
             "params": {
                 "is_enabled": {
@@ -2745,7 +2752,7 @@
         "ig_camera_android_touch_up": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "has_color_intensity_change": {
                     "value": false
@@ -2829,7 +2836,7 @@
         "ig_cameracore_android_async_camera_open": {
             "params": {
                 "enable_async_camera_open": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -2985,13 +2992,13 @@
         "ig_android_reels_audio_page_improvement": {
             "params": {
                 "animate_use_audio_button": {
-                    "value": false
+                    "value": true
                 },
                 "autoplay_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "move_save_share": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -4794,10 +4801,10 @@
                     "value": false
                 },
                 "num_loops_to_show_upsell_overlay": {
-                    "value": -1
+                    "value": 2
                 },
                 "prefetch_reels_feed": {
-                    "value": false
+                    "value": true
                 },
                 "reels_feed_preview_indicator_never_collapses": {
                     "value": false
@@ -4806,10 +4813,10 @@
                     "value": false
                 },
                 "feed_video_remaining_time_before_prefetch_ms": {
-                    "value": -1
+                    "value": 8000
                 },
                 "is_autoscroll_on_cta_click_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "show_swipe_up_nux_immediately": {
                     "value": false
@@ -4855,7 +4862,7 @@
         "ig_android_clips_viewer_redesign": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 },
                 "uplevel_save": {
                     "value": false
@@ -4864,7 +4871,7 @@
                     "value": false
                 },
                 "single_line_caption": {
-                    "value": false
+                    "value": true
                 },
                 "bottom_gradient_background_midpoint": {
                     "value": 0.5
@@ -4879,14 +4886,17 @@
         },
         "ig_android_clips_viewer_renderer_perf": {
             "params": {
+                "enable_caption_comment_cache": {
+                    "value": true
+                },
                 "enable_caching_in_background": {
-                    "value": false
+                    "value": true
                 },
                 "enable_caching_captions_in_background": {
-                    "value": false
+                    "value": true
                 },
                 "enable_caching_music_drawable_in_background": {
-                    "value": false
+                    "value": true
                 },
                 "enable_view_prefetch": {
                     "value": false
@@ -8600,7 +8610,7 @@
         "ig_android_clips_viewer_audio": {
             "params": {
                 "audio_always_on": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -8638,7 +8648,7 @@
         "ig_android_peek_controller_refactor": {
             "params": {
                 "delay_inflate_view": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -8648,10 +8658,10 @@
                     "value": false
                 },
                 "delay_clips_fetch": {
-                    "value": false
+                    "value": true
                 },
                 "skip_zero_scroll": {
-                    "value": false
+                    "value": true
                 }
             }
         },
@@ -8665,13 +8675,13 @@
         "ig_android_reels_peek": {
             "params": {
                 "is_enabled_audio": {
-                    "value": false
+                    "value": true
                 },
                 "is_enabled_effects": {
-                    "value": false
+                    "value": true
                 },
                 "is_enabled_profile": {
-                    "value": false
+                    "value": true
                 }
             }
         },
