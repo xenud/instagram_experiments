@@ -619,6 +619,12 @@
                 },
                 "tray_vpvd_threshold_millis": {
                     "value": 0
+                },
+                "add_ads_to_reel_store": {
+                    "value": false
+                },
+                "media_prefetch_container_name": {
+                    "value": "reel_prefetch"
                 }
             }
         },
