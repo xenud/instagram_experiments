@@ -3862,7 +3862,7 @@
         "ig_android_direct_stickers_business_accounts": {
             "params": {
                 "is_enabled": {
-                    "value": false
+                    "value": true
                 }
             }
         },
