@@ -4794,8 +4794,7 @@
                     "value": false
                 },
                 "num_loops_to_show_upsell_overlay": {
-                    "value": -1,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": -1
                 },
                 "prefetch_reels_feed": {
                     "value": false
@@ -4856,8 +4855,7 @@
         "ig_android_clips_viewer_redesign": {
             "params": {
                 "is_enabled": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 },
                 "uplevel_save": {
                     "value": false
@@ -5049,8 +5047,7 @@
                     "value": false
                 },
                 "deeplink_external_urls_to_tab": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 },
                 "respect_tooltip_frequency_framework": {
                     "value": false
@@ -8603,8 +8600,7 @@
         "ig_android_clips_viewer_audio": {
             "params": {
                 "audio_always_on": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 }
             }
         },
@@ -8642,16 +8638,14 @@
         "ig_android_peek_controller_refactor": {
             "params": {
                 "delay_inflate_view": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 }
             }
         },
         "ig_android_profile_subtab_order": {
             "params": {
                 "is_igtv_second_tab": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 },
                 "delay_clips_fetch": {
                     "value": false
@@ -8671,8 +8665,7 @@
         "ig_android_reels_peek": {
             "params": {
                 "is_enabled_audio": {
-                    "value": false,
-                    "canary_id": "l|GK|ig_rc_product_engagement_experiment_h1_2021_gk|4291869578|T"
+                    "value": false
                 },
                 "is_enabled_effects": {
                     "value": false
